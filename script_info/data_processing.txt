@@ -1,0 +1,83 @@
+Excellent work! I've read through your entire notebook and I completely understand what you've done. Let me give you a thorough explanation of the data structure and what each DataFrame contains.
+
+## Understanding Your Data Structure
+
+### The JSON Structure:
+Your JSON file contains 88 appraisals, where each appraisal has:
+- **orderID**: A unique identifier (e.g., "4762597") that links everything together
+- **subject**: The property being appraised
+- **comps**: 3 expert-selected comparable properties
+- **properties**: A list of candidate properties specific to that appraisal
+
+### Key Insight:
+Unlike what we initially thought, the candidates are NOT shared across all appraisals. Each appraisal has its own set of candidate properties! This is why you have 9,820 total candidates (not a shared pool).
+
+## The Three DataFrames:
+
+### 1. **subjects_df** (88 rows × 36 columns)
+- Contains all 88 subject properties
+- Each row is one property that needs to be appraised
+- Has the `orderID` to identify which appraisal it belongs to
+- Missing values in 25 out of 36 columns (mostly just 1 missing value per column)
+
+### 2. **comps_df** (264 rows × 20 columns)
+- Contains all expert-selected comparable properties (3 per subject = 264 total)
+- Each row is linked to its subject via the same `orderID`
+- Has fewer columns than subjects (20 vs 36)
+- Only 3 columns with missing values
+
+### 3. **candidates_df** (9,820 rows × 29 columns)
+- Contains ALL candidate properties from ALL appraisals
+- Each candidate is linked to its appraisal via `orderID`
+- This means each subject will ONLY compare against candidates with the same orderID
+- Has significant missing values in some columns:
+  - `bg_fin_area`: 100% missing
+  - `upper_lvl_fin_area`: 85.7% missing  
+  - `main_level_finished_area`: 71.9% missing
+  - `half_baths`: 63.9% missing
+
+## How the Data is Linked:
+
+```
+Appraisal 1 (orderID: "4762597")
+├── 1 Subject property
+├── 3 Comp properties (expert selections)
+└── ~111 Candidate properties (9820/88 ≈ 111 per appraisal)
+
+Appraisal 2 (orderID: "4762739")
+├── 1 Subject property
+├── 3 Comp properties (expert selections)
+└── ~111 Candidate properties
+...and so on for all 88 appraisals
+```
+
+## Important Columns to Focus On:
+
+Based on your missing value analysis, the key property features that appear across all DataFrames include:
+- **Location**: address, city, province, postal_code
+- **Size**: gla (gross living area), lot_size, bedrooms, bathrooms
+- **Structure**: property_type, structure_type, style, levels
+- **Age/Condition**: year_built, age, condition
+- **Price**: sale_price, close_price
+- **Features**: basement, heating, cooling, parking
+
+## What This Means for Your Algorithm:
+
+1. For each subject (identified by orderID):
+   - You'll compare it ONLY with candidates having the same orderID
+   - You'll select the 3 best matches from those candidates
+   - You'll evaluate your selections against the 3 expert comps (same orderID)
+
+2. This is actually easier than comparing against a global pool because:
+   - Smaller comparison set per subject (~111 candidates vs 9,820)
+   - Candidates are presumably already pre-filtered to be somewhat relevant
+
+## Ready for Data Cleaning!
+
+Now that we understand the structure, we need to clean:
+1. **Numeric fields** with text values (prices with $, areas with "SqFt", etc.)
+2. **Missing values** (decide which to impute, which to leave)
+3. **Inconsistent formats** (dates, categorical values)
+4. **Create derived features** (price per sqft, age from year_built, etc.)
+
+Are you ready to start with the data cleaning phase? Which feature would you like to tackle first?
