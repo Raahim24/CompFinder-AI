@@ -1,0 +1,36 @@
+What This Notebook Does
+This is a feature engineering notebook that prepares data for a machine learning model. Let me break it down:
+1. The Data Context
+The notebook works with three datasets related to real estate:
+
+Subjects (88 records): Properties being appraised
+Comps (264 records): Comparable properties that were already selected as comparables
+Candidates (9,820 records): Potential comparable properties to evaluate
+
+2. The Goal
+The goal appears to be building a model that can predict which candidate properties would make good comparables for a subject property during real estate appraisal.
+3. Feature Engineering Process
+The notebook creates pairwise features by comparing each subject property with its comps/candidates:
+Numerical Differences:
+
+gla_diff: Difference in Gross Living Area (square footage)
+lot_size_diff: Difference in lot size
+bedroom_diff: Difference in number of bedrooms
+bathroom_diff: Difference in number of bathrooms
+room_count_diff: Difference in total room count
+
+Categorical Matches:
+
+same_property_type: Whether properties are same type (Detached, Townhouse, etc.)
+same_storey_type: Whether properties have same number of stories
+
+Temporal Features:
+
+sold_recently_90: Whether property sold within 90 days of subject's effective date
+sold_recently_180: Whether property sold within 180 days
+
+4. Output
+Two model-ready datasets are created:
+
+comp_pair_model_ready.csv: Subject-comp pairs (positive examples)
+candidates_pair_model_ready.csv: Subject-candidate pairs (to be classified)
