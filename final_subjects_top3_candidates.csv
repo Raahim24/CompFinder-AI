@@ -1,0 +1,265 @@
+orderID,id,subject_address,subject_gla_clean,subject_bedrooms_clean,subject_bathrooms_clean,subject_room_count_clean,subject_lot_size_clean,subject_property_type_clean,subject_stories_clean,subject_effective_date_clean,candidate_address,candidate_gla_clean,candidate_bedrooms_clean,candidate_bathrooms_clean,candidate_room_count_clean,candidate_lot_size_clean,candidate_property_type_clean,candidate_stories_clean,candidate_close_date_clean,score,rank
+4762597,378,142-950 Oakview Ave Kingston ON K7M 6W8,1044.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-11,311 Janette St,1500.0,3.0,4.0,11.0,2622.0,Townhouse,2 Storey,2025-01-14,-2.4561014,1.0
+4762597,130023,142-950 Oakview Ave Kingston ON K7M 6W8,1044.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-11,311 Janette Street ,1300.0,3.0,0.0,11.0,2622.0,Townhouse,2 Storey,2025-01-14,-2.4561014,2.0
+4762597,101,142-950 Oakview Ave Kingston ON K7M 6W8,1044.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-11,1341 TREMONT Dr,1550.0,3.0,3.0,9.0,2099.98,Townhouse,2 Storey,2025-01-24,-2.4561014,3.0
+4762739,299237,7180 207 HWY Halifax NS B0J2L0,1500.0,3.0,2.5,6.0,72745.0,Detached,1.5 Storey,2025-04-17,425 Highway 357,320.0,1.0,1.0,3.0,74381.0,Detached,1.5 Storey,2025-04-02,3.0002503,1.0
+4762739,299230,7180 207 HWY Halifax NS B0J2L0,1500.0,3.0,2.5,6.0,72745.0,Detached,1.5 Storey,2025-04-17,Unit 7  East Petpeswick Road,1472.0,3.0,2.0,3.0,126952.0,Detached,Bungalow,2025-05-02,-2.328637,2.0
+4762739,297301,7180 207 HWY Halifax NS B0J2L0,1500.0,3.0,2.5,6.0,72745.0,Detached,1.5 Storey,2025-04-17,638 Myers Point Road,1136.0,2.0,2.0,2.0,65340.0,Detached,Bungalow,2024-10-30,-2.3667285,3.0
+4763065,146611,11 PAUL AVE Ayr ON N0B1E0,3000.0,4.0,2.5,9.0,20174.0,Detached,2 Storey,2025-05-01,60 Cedar Crescent ,895.0,2.0,1.0,10.0,16104.0,Detached,Bungalow,2025-01-16,2.936263,1.0
+4763065,213855,11 PAUL AVE Ayr ON N0B1E0,3000.0,4.0,2.5,9.0,20174.0,Detached,2 Storey,2025-05-01,967 Doon Village Road ,2496.0,5.0,2.5,16.0,15456.0,Detached,2 Storey,2025-01-17,-2.0039546,2.0
+4763065,201148,11 PAUL AVE Ayr ON N0B1E0,3000.0,4.0,2.5,9.0,20174.0,Detached,2 Storey,2025-05-01,48 Southridge Drive ,3128.0,6.0,3.5,19.0,6888.0,Detached,2 Storey,2025-03-03,-2.328637,3.0
+4763086,2683,102 Stonewalk Dr Kemptville ON K0G 1J0,1283.0,2.0,3.0,5.0,54450.0,Detached,Bungalow,2025-04-15,609 COUNTY 44 Rd,2000.0,3.0,3.0,7.0,56253.8,Detached,Split Level,2025-01-24,3.0896237,1.0
+4763086,133062,102 Stonewalk Dr Kemptville ON K0G 1J0,1283.0,2.0,3.0,5.0,54450.0,Detached,Bungalow,2025-04-15,609 COUNTY 44 Road ,2250.0,4.0,0.0,7.0,56323.0,Detached,Split Level,2025-01-24,3.0002503,2.0
+4763086,959,102 Stonewalk Dr Kemptville ON K0G 1J0,1283.0,2.0,3.0,5.0,54450.0,Detached,Bungalow,2025-04-15,3232 HARVESTER Cres,2497.0,4.0,3.0,17.0,,Detached,1 Storey,2024-12-12,-2.3667285,3.0
+4763087,298220,407 105 Dunbrack St Halifax NS B3M3G7,1530.0,3.0,2.0,6.0,,Condominium,1 Storey,2025-04-17,Unit 210 40 Regency Park Drive,1553.0,2.0,2.0,9.0,,Condominium,1 Storey,2025-02-18,-2.328637,1.0
+4763087,298305,407 105 Dunbrack St Halifax NS B3M3G7,1530.0,3.0,2.0,6.0,,Condominium,1 Storey,2025-04-17,92 Forestside Crescent,1681.0,3.0,1.5,9.0,,Condominium,2 Storey,2025-02-26,-2.328637,2.0
+4763087,298238,407 105 Dunbrack St Halifax NS B3M3G7,1530.0,3.0,2.0,6.0,,Condominium,1 Storey,2025-04-17,75 Forestside Crescent,1386.0,4.0,2.5,10.0,,Condominium,2 Storey,2025-03-06,-2.328637,3.0
+4764094,295895,40 Bellroyal Crt Cole Harbour NS B2V 2B4,1746.0,3.0,2.5,7.0,6825.0,Detached,Split Level,2025-04-16,394 Arklow Drive,936.0,4.0,1.5,10.0,6255.0,Detached,Split Level,2025-01-21,3.0896237,1.0
+4764094,293849,40 Bellroyal Crt Cole Harbour NS B2V 2B4,1746.0,3.0,2.5,7.0,6825.0,Detached,Split Level,2025-04-16,35 Hannebury Drive,1085.0,4.0,2.0,11.0,6600.0,Detached,Split Level,2025-01-31,3.0896237,2.0
+4764094,295611,40 Bellroyal Crt Cole Harbour NS B2V 2B4,1746.0,3.0,2.5,7.0,6825.0,Detached,Split Level,2025-04-16,284 Colby Drive,1816.0,3.0,3.0,12.0,9520.0,Detached,Split Level,2025-02-03,3.0896237,3.0
+4764103,203989,10 Crofton Rd Toronto ON M4G2B4,1602.0,2.0,3.0,6.0,3694.0,Semi Detached,2 Storey,2025-04-16,26 Forsyth Crescent ,1246.0,4.0,0.0,6.0,1674.0,Semi Detached,2 Storey,2025-01-19,3.0002503,1.0
+4764103,206873,10 Crofton Rd Toronto ON M4G2B4,1602.0,2.0,3.0,6.0,3694.0,Semi Detached,2 Storey,2025-04-16,73 Hanna Road ,1300.0,3.0,0.0,12.0,2945.0,Semi Detached,2 Storey,2025-03-21,3.0002503,2.0
+4764103,208167,10 Crofton Rd Toronto ON M4G2B4,1602.0,2.0,3.0,6.0,3694.0,Semi Detached,2 Storey,2025-04-16,142 Donlea Drive ,,4.0,0.0,6.0,3240.0,Semi Detached,2 Storey,2025-03-23,3.0002503,3.0
+4761696,3314,11 Bermondsey Way Stittsville ON K2S2Y7,1751.0,3.0,2.5,7.0,3358.0,Townhouse,2 Storey,2025-04-14,103 MOJAVE Cres,1663.0,3.0,3.0,11.0,2100.0,Townhouse,2 Storey,2025-01-31,3.0896237,1.0
+4761696,77745,11 Bermondsey Way Stittsville ON K2S2Y7,1751.0,3.0,2.5,7.0,3358.0,Townhouse,2 Storey,2025-04-14,1030 PAMPERO Cres ,,2.0,3.0,5.0,1470.0,Townhouse,2 Storey,2025-02-05,3.0896237,2.0
+4761696,77661,11 Bermondsey Way Stittsville ON K2S2Y7,1751.0,3.0,2.5,7.0,3358.0,Townhouse,2 Storey,2025-04-14,504 PAINE Ave ,1696.0,3.0,3.0,8.0,1960.0,Townhouse,2 Storey,2025-02-10,3.0896237,3.0
+4762154,298305,306 11 SPRINGVALE AVE Halifax NS B3N0A3,1523.0,2.0,2.0,6.0,,Condominium,1 Storey,2025-04-15,92 Forestside Crescent,1681.0,3.0,1.5,9.0,,Condominium,2 Storey,2025-02-26,-2.328637,1.0
+4762154,298238,306 11 SPRINGVALE AVE Halifax NS B3N0A3,1523.0,2.0,2.0,6.0,,Condominium,1 Storey,2025-04-15,75 Forestside Crescent,1386.0,4.0,2.5,10.0,,Condominium,2 Storey,2025-03-06,-2.328637,2.0
+4762154,304027,306 11 SPRINGVALE AVE Halifax NS B3N0A3,1523.0,2.0,2.0,6.0,,Condominium,1 Storey,2025-04-15,Unit 514 202 Walter Havill Drive,1463.0,2.0,2.0,7.0,,Condominium,,2025-05-13,-2.328637,3.0
+4762330,10386,229 SANDPIPER CRES Chestermere AB T1X0Y4,2456.0,4.0,2.5,10.0,5909.436,Detached,2 Storey,2025-04-14,15 Sandpiper Bend ,2323.0,4.0,3.0,11.0,5244.0,Detached,2 Storey,2025-01-21,3.0896237,1.0
+4762330,10295,229 SANDPIPER CRES Chestermere AB T1X0Y4,2456.0,4.0,2.5,10.0,5909.436,Detached,2 Storey,2025-04-14,109 Kinniburgh Cove ,2608.0,6.0,3.5,14.0,4951.0,Detached,2 Storey,2025-01-27,3.0896237,2.0
+4762330,10223,229 SANDPIPER CRES Chestermere AB T1X0Y4,2456.0,4.0,2.5,10.0,5909.436,Detached,2 Storey,2025-04-14,209 Kinniburgh Boulevard ,2483.0,4.0,3.5,18.0,4004.0,Detached,2 Storey,2025-01-31,3.0896237,3.0
+4762406,299613,164 Redmonds Rd Seabright NS B3Z3C4,3332.0,5.0,2.5,10.0,42495.0,Detached,1.5 Storey,2025-04-17,Unit 50 256 Bailee Drive,1749.0,4.0,3.5,4.0,40436.0,Detached,2 Storey,2025-04-08,3.0896237,1.0
+4762406,291150,164 Redmonds Rd Seabright NS B3Z3C4,3332.0,5.0,2.5,10.0,42495.0,Detached,1.5 Storey,2025-04-17,80 Old Halifax Road,1098.0,2.0,1.0,5.0,43560.0,Detached,1.5 Storey,2025-01-24,3.0002503,2.0
+4762406,296938,164 Redmonds Rd Seabright NS B3Z3C4,3332.0,5.0,2.5,10.0,42495.0,Detached,1.5 Storey,2025-04-17,9295 Peggys Cove Road,1504.0,3.0,2.0,3.0,49455.0,Detached,1 Storey,2024-10-28,-2.3667285,3.0
+4761220,204458,11 Bashir St Maple ON L6A3A3,1525.0,3.0,3.5,7.0,2619.0,Semi Detached,2 Storey,2025-04-14,106 Blackthorn Drive ,1775.0,4.0,0.0,7.0,2475.0,Semi Detached,2 Storey,2025-03-03,3.0002503,1.0
+4761220,232436,11 Bashir St Maple ON L6A3A3,1525.0,3.0,3.5,7.0,2619.0,Semi Detached,2 Storey,2025-04-14,4 Cape Verde Way ,1598.0,3.0,0.0,6.0,2460.0,Semi Detached,2 Storey,2025-03-28,3.0002503,2.0
+4761220,170103,11 Bashir St Maple ON L6A3A3,1525.0,3.0,3.5,7.0,2619.0,Semi Detached,2 Storey,2025-04-14,111 Fairmont Avenue ,2665.0,5.0,0.0,10.0,4056.0,Detached,2 Storey,2025-01-14,2.325651,3.0
+4761433,297249,1368 Shore Dr Bedford NS B4A2E8,2895.0,4.0,3.0,10.0,26700.0,Detached,1 Storey,2025-04-15,9 Kennedy Court,1206.0,4.0,2.5,11.0,8776.0,Detached,Split Level,2025-01-31,-2.3667285,1.0
+4761433,296402,1368 Shore Dr Bedford NS B4A2E8,2895.0,4.0,3.0,10.0,26700.0,Detached,1 Storey,2025-04-15,107 Shoreview Drive,1552.0,4.0,2.5,10.0,9840.0,Detached,Split Level,2025-03-18,-2.3667285,2.0
+4761433,297849,1368 Shore Dr Bedford NS B4A2E8,2895.0,4.0,3.0,10.0,26700.0,Detached,1 Storey,2025-04-15,95 Millrun Crescent,2413.0,5.0,3.5,17.0,7400.0,Detached,Split Level,2025-03-18,-2.3667285,3.0
+4761446,2783,5004 Fox Run Pl Kingston ON K7P0E4,1678.0,3.0,2.0,7.0,5663.0,Detached,Bungalow,2025-04-10,786 HIGH GATE PARK Dr,1300.0,3.0,2.0,7.0,6600.0,Detached,2 Storey,2025-01-15,3.0896237,1.0
+4761446,2763,5004 Fox Run Pl Kingston ON K7P0E4,1678.0,3.0,2.0,7.0,5663.0,Detached,Bungalow,2025-04-10,784 Downing St,1250.0,5.0,2.0,12.0,7150.0,Detached,Split Level,2025-01-17,3.0896237,2.0
+4761446,52,5004 Fox Run Pl Kingston ON K7P0E4,1678.0,3.0,2.0,7.0,5663.0,Detached,Bungalow,2025-04-10,1028 Bauder Cres,900.0,2.0,2.0,10.0,8250.0,Detached,Bungalow Raised,2025-01-25,3.0896237,3.0
+4759647,297612,201 Halfway Lake Dr Hammonds Plains NS B4B1M8,2264.0,4.0,2.5,9.0,33943.0,Detached,2 Storey,2025-04-10,1 Grandview Court,2408.0,3.0,2.5,12.0,33888.0,Detached,2 Storey,2025-01-27,3.0896237,1.0
+4759647,299967,201 Halfway Lake Dr Hammonds Plains NS B4B1M8,2264.0,4.0,2.5,9.0,33943.0,Detached,2 Storey,2025-04-10,20 Paula Drive,1341.0,3.0,3.0,11.0,31901.0,Detached,Split Level,2025-04-03,3.0896237,2.0
+4759647,299653,201 Halfway Lake Dr Hammonds Plains NS B4B1M8,2264.0,4.0,2.5,9.0,33943.0,Detached,2 Storey,2025-04-10,201 Halfway Lake Drive,2045.0,4.0,3.5,11.0,33944.0,Detached,2 Storey,2025-04-16,3.0896237,3.0
+4759723,2822,5 Golflinks Dr Ottawa ON K2J 4X9,2530.0,3.0,3.5,9.0,5987.0,Detached,2 Storey,2025-04-09,2 KNOTWOOD Crt,2500.0,5.0,3.0,17.0,8106.36,Detached,2 Storey,2025-01-09,3.0896237,1.0
+4759723,288,5 Golflinks Dr Ottawa ON K2J 4X9,2530.0,3.0,3.5,9.0,5987.0,Detached,2 Storey,2025-04-09,949 Rossburn Cres,2488.0,4.0,3.5,9.0,5433.78,Detached,2 Storey,2025-01-16,3.0896237,2.0
+4759723,259,5 Golflinks Dr Ottawa ON K2J 4X9,2530.0,3.0,3.5,9.0,5987.0,Detached,2 Storey,2025-04-09,3590 CAMBRIAN Rd,2114.0,4.0,4.0,17.0,2955.0,Detached,2 Storey,2025-01-17,3.0896237,3.0
+4760530,266309,3435 Vandorf Siderd Stouffville ON L4A4H5,2149.0,4.0,3.5,7.0,438082.92,Detached,Bungalow Raised,2025-04-14,3948 Vandorf Side Road ,2250.0,4.0,0.0,6.0,440502.0,Detached,Bungalow Raised,2025-03-28,3.0002503,1.0
+4760530,179657,3435 Vandorf Siderd Stouffville ON L4A4H5,2149.0,4.0,3.5,7.0,438082.92,Detached,Bungalow Raised,2025-04-14,36 Cobb Street ,2250.0,4.0,0.0,8.0,3161.0,Detached,2 Storey,2024-10-19,-2.4180098,2.0
+4760530,175442,3435 Vandorf Siderd Stouffville ON L4A4H5,2149.0,4.0,3.5,7.0,438082.92,Detached,Bungalow Raised,2025-04-14,2 Cobb St ,2266.0,3.0,0.0,9.0,5123.0,Detached,2 Storey,2024-10-24,-2.4180098,3.0
+4760630,158004,118 Colborne St Kingston ON K7K 1C9,1840.0,4.0,1.0,8.0,1742.0,Townhouse,2.5 Storey,2025-04-10,36 Lower Union Street ,900.0,4.0,0.0,8.0,924.0,Townhouse,2 Storey,2025-01-14,3.0896237,1.0
+4760630,196003,118 Colborne St Kingston ON K7K 1C9,1840.0,4.0,1.0,8.0,1742.0,Townhouse,2.5 Storey,2025-04-10,133 William Street ,2250.0,5.0,0.0,9.0,2014.0,Townhouse,2.5 Storey,2025-01-20,3.0896237,2.0
+4760630,77085,118 Colborne St Kingston ON K7K 1C9,1840.0,4.0,1.0,8.0,1742.0,Townhouse,2.5 Storey,2025-04-10,118 Stephen St N ,1174.0,3.0,1.0,9.0,3780.0,Townhouse,2 Storey,2025-02-20,3.0896237,3.0
+4760651,294996,92 Armcrest Dr Lower Sackville NS B4C3Z9,1354.0,3.0,1.5,6.0,3250.0,Detached,2 Storey,2025-04-15,247 Beaver Bank Cross Road,988.0,3.0,2.0,9.0,6007.0,Detached,Split Level,2025-02-12,3.0896237,1.0
+4760651,295342,92 Armcrest Dr Lower Sackville NS B4C3Z9,1354.0,3.0,1.5,6.0,3250.0,Detached,2 Storey,2025-04-15,57 Taleen Drive,1200.0,3.0,1.5,11.0,3400.0,Detached,2 Storey,2025-02-21,3.0896237,2.0
+4760651,299297,92 Armcrest Dr Lower Sackville NS B4C3Z9,1354.0,3.0,1.5,6.0,3250.0,Detached,2 Storey,2025-04-15,72 Nordic Crescent,1050.0,4.0,2.0,8.0,6240.0,Detached,Split Level,2025-04-10,3.0896237,3.0
+4760900,9880,1083 Cornerstone St NE Calgary AB T3N1G5,1573.4,3.0,2.5,7.0,4058.028,Detached,2 Storey,2025-04-10,8 Corner Meadows Gate NE ,1712.0,5.0,3.5,13.0,3552.0,Detached,2 Storey,2025-01-17,3.0896237,1.0
+4760900,93272,1083 Cornerstone St NE Calgary AB T3N1G5,1573.4,3.0,2.5,7.0,4058.028,Detached,2 Storey,2025-04-10,61 Skyview Springs Crescent NE ,1480.0,3.0,2.5,9.0,3358.0,Detached,2 Storey,2025-01-18,3.0896237,2.0
+4760900,68491,1083 Cornerstone St NE Calgary AB T3N1G5,1573.4,3.0,2.5,7.0,4058.028,Detached,2 Storey,2025-04-10,382 Corner Glen Way ,1961.0,3.0,3.0,,3519.0,Detached,2 Storey,2025-01-23,3.0896237,3.0
+4742669,62579,"504 37 St NW, Calgary, AB T2N 3B8, Canada",839.592,2.0,2.0,4.0,4639.284,Detached,Bungalow,2025-03-24,4640 22 Avenue NW ,850.0,3.0,2.0,,5995.0,Detached,Bungalow,2024-12-25,3.0896237,1.0
+4742669,33996,"504 37 St NW, Calgary, AB T2N 3B8, Canada",839.592,2.0,2.0,4.0,4639.284,Detached,Bungalow,2025-03-24,2536 4 Avenue NW ,839.0,3.0,2.0,5.0,5392.0,Detached,Bungalow,2024-12-26,3.0896237,2.0
+4742669,33982,"504 37 St NW, Calgary, AB T2N 3B8, Canada",839.592,2.0,2.0,4.0,4639.284,Detached,Bungalow,2025-03-24,45 Westover Drive SW ,1066.0,5.0,2.0,10.0,6081.0,Detached,Bungalow,2025-01-04,3.0896237,3.0
+4752865,9917,8915 20 Ave SW Edmonton AB T6X2C5,2974.0,4.0,2.5,8.0,6512.219999999999,Detached,2 Storey,2025-04-07,7724 SUMMERSIDE GRANDE Boulevard SW ,1998.0,4.0,3.5,8.0,4084.1,Detached,,2025-01-13,3.0896237,1.0
+4752865,10447,8915 20 Ave SW Edmonton AB T6X2C5,2974.0,4.0,2.5,8.0,6512.219999999999,Detached,2 Storey,2025-04-07,8731 MAYDAY Lane SW ,2348.0,4.0,3.0,7.0,3603.1,Detached,,2025-01-15,3.0896237,2.0
+4752865,12874,8915 20 Ave SW Edmonton AB T6X2C5,2974.0,4.0,2.5,8.0,6512.219999999999,Detached,2 Storey,2025-04-07,527 89 Street SW ,1308.0,5.0,3.0,7.0,4399.0,Detached,,2025-01-15,3.0896237,3.0
+4755196,2681,531 Des Genévriers Rue Orléans ON K4A0Z2,2956.0,4.0,3.5,8.0,3601.0,Detached,2 Storey,2025-04-14,673 AQUAVIEW Dr,2500.0,4.0,4.0,8.0,5285.04,Detached,2 Storey,2025-01-24,3.0896237,1.0
+4755196,3247,531 Des Genévriers Rue Orléans ON K4A0Z2,2956.0,4.0,3.5,8.0,3601.0,Detached,2 Storey,2025-04-14,285 Chinian St,1767.0,2.0,3.0,5.0,6552.0,Detached,Bungalow,2025-02-01,3.0896237,2.0
+4755196,77626,531 Des Genévriers Rue Orléans ON K4A0Z2,2956.0,4.0,3.5,8.0,3601.0,Detached,2 Storey,2025-04-14,476 Rougemount Cres ,1758.0,3.0,3.0,8.0,4410.0,Detached,2 Storey,2025-02-06,3.0896237,3.0
+4756192,12969,2306-530 3 St SE Calgary AB T2G 2L8,1109.0,2.0,2.0,5.0,,High Rise Apartment,1 Storey,2025-04-07,Unit 701 - 235 15 Avenue SW ,1124.0,2.0,1.5,10.0,,Condominium,,2025-01-13,-3.0926101,1.0
+4756192,42663,2306-530 3 St SE Calgary AB T2G 2L8,1109.0,2.0,2.0,5.0,,High Rise Apartment,1 Storey,2025-04-07,Unit 503 - 114 15 Avenue SW ,1044.0,2.0,2.0,8.0,,Condominium,,2025-01-16,-3.0926101,2.0
+4756192,12789,2306-530 3 St SE Calgary AB T2G 2L8,1109.0,2.0,2.0,5.0,,High Rise Apartment,1 Storey,2025-04-07,Unit 2 - 433 13 Avenue NE ,1262.0,3.0,2.5,6.0,,Townhouse,2 Storey,2025-01-17,-3.0926101,3.0
+4756320,49309,405 Allard Blvd SW Edmonton AB T6W3T3,1580.0,3.0,2.5,5.0,3552.12,Detached,2 Storey,2025-04-04,3915 AGAR Court SW ,1960.0,3.0,2.5,8.0,4911.8,Detached,,2025-01-08,3.0896237,1.0
+4756320,9985,405 Allard Blvd SW Edmonton AB T6W3T3,1580.0,3.0,2.5,5.0,3552.12,Detached,2 Storey,2025-04-04,4658 ALWOOD Way SW ,1830.0,3.0,2.5,9.0,3960.5,Detached,,2025-01-14,3.0896237,2.0
+4756320,9603,405 Allard Blvd SW Edmonton AB T6W3T3,1580.0,3.0,2.5,5.0,3552.12,Detached,2 Storey,2025-04-04,5874 ANTHONY Crescent SW ,1751.0,3.0,2.5,7.0,3361.9,Detached,,2025-01-23,3.0896237,3.0
+4756829,181,340 Axis Way Ottawa ON K1W 0J9,1587.0,3.0,3.5,6.0,1868.0,Townhouse,2 Storey,2025-04-08,81 Canvasback Rdge,1500.0,3.0,3.0,3.0,2020.0,Townhouse,2 Storey,2025-01-18,3.0896237,1.0
+4756829,193,340 Axis Way Ottawa ON K1W 0J9,1587.0,3.0,3.5,6.0,1868.0,Townhouse,2 Storey,2025-04-08,609 KNOTRIDGE St,2207.0,3.0,4.0,16.0,1860.0,Townhouse,3 Storey,2025-01-20,3.0896237,2.0
+4756829,78191,340 Axis Way Ottawa ON K1W 0J9,1587.0,3.0,3.5,6.0,1868.0,Townhouse,2 Storey,2025-04-08,229 Willow Aster Circ ,1750.0,3.0,4.0,11.0,1722.0,Townhouse,2 Storey,2025-01-29,3.0896237,3.0
+4757939,64340,824 9A ST NE Calgary AB T2E4L6,968.76,2.0,2.0,5.0,6738.263999999999,Detached,Bungalow,2025-04-07,2111 Vista Crescent NE ,1094.0,5.0,2.0,7.0,6210.0,Detached,Bungalow,2025-01-07,3.0896237,1.0
+4757939,62564,824 9A ST NE Calgary AB T2E4L6,968.76,2.0,2.0,5.0,6738.263999999999,Detached,Bungalow,2025-04-07,223 12 Avenue NE ,711.0,2.0,1.0,4.0,4499.0,Detached,Bungalow,2025-01-09,3.0896237,2.0
+4757939,62561,824 9A ST NE Calgary AB T2E4L6,968.76,2.0,2.0,5.0,6738.263999999999,Detached,Bungalow,2025-04-07,629 20 Avenue NE ,806.0,2.0,1.0,8.0,4682.0,Detached,Bungalow,2025-01-13,3.0896237,3.0
+4757966,11113,218 88 ARBOUR LAKE RD NW Calgary AB T3G0C2,1039.0,2.0,2.0,5.0,,Low Rise Apartment,1 Storey,2025-04-07,23A Ranchero Bay NW ,1163.0,3.0,1.0,6.0,2863.0,Semi Detached,2 Storey,2025-01-10,-3.0926101,1.0
+4757966,62555,218 88 ARBOUR LAKE RD NW Calgary AB T3G0C2,1039.0,2.0,2.0,5.0,,Low Rise Apartment,1 Storey,2025-04-07,Unit NA - 3204 Tuscarora Manor NW ,944.0,2.0,2.0,7.0,,Condominium,,2025-01-16,-3.0926101,2.0
+4757966,64188,218 88 ARBOUR LAKE RD NW Calgary AB T3G0C2,1039.0,2.0,2.0,5.0,,Low Rise Apartment,1 Storey,2025-04-07,Unit 2212 - 928 Arbour Lake Road NW ,1065.0,2.0,2.0,6.0,,Condominium,,2025-01-18,-3.0926101,3.0
+4758025,10454,2 Rockcliff Hts NW Calgary AB T3G0C7,2809.404,4.0,3.5,9.0,8191.404,Detached,2 Storey,2025-04-16,61 Rockford Road NW ,2584.0,4.0,3.5,17.0,5511.0,Detached,2 Storey,2025-01-16,3.0896237,1.0
+4758025,10336,2 Rockcliff Hts NW Calgary AB T3G0C7,2809.404,4.0,3.5,9.0,8191.404,Detached,2 Storey,2025-04-16,5 Rockyvale Green NW ,2464.0,3.0,3.5,10.0,8546.0,Detached,Bungalow,2025-01-24,3.0896237,2.0
+4758025,12393,2 Rockcliff Hts NW Calgary AB T3G0C7,2809.404,4.0,3.5,9.0,8191.404,Detached,2 Storey,2025-04-16,120 Rocky Ridge Landing NW ,1384.0,4.0,3.0,11.0,5425.0,Detached,Bungalow,2025-01-29,3.0896237,3.0
+4758316,5963,"119 110 Auburn Meadows View SE Calgary, Alberta T3M 2M2",789.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-04-07,Unit 1204 - 11 Mahogany Row SE ,843.0,2.0,2.0,7.0,,Condominium,,2025-01-10,-2.328637,1.0
+4758316,5924,"119 110 Auburn Meadows View SE Calgary, Alberta T3M 2M2",789.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-04-07,Unit 313 - 11 Mahogany Circle SE ,650.0,1.0,1.0,6.0,,Condominium,,2025-01-11,-2.328637,2.0
+4758316,5951,"119 110 Auburn Meadows View SE Calgary, Alberta T3M 2M2",789.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-04-07,Unit 1210 - 11 Mahogany Row SE ,934.0,2.0,2.0,5.0,,Condominium,,2025-01-11,-2.328637,3.0
+4758324,292875,3 Bayview Lane Queensland NS B0J1T0,1094.0,3.0,2.0,6.0,12600.0,Detached,1 Storey,2025-04-09,331 Conrads Road,1528.0,2.0,1.5,8.0,15900.0,Detached,1.5 Storey,2024-11-15,3.0256362,1.0
+4758324,263717,3 Bayview Lane Queensland NS B0J1T0,1094.0,3.0,2.0,6.0,12600.0,Detached,1 Storey,2025-04-09,"315 Kennedy's Road, Boutiliers Point",814.0,3.0,1.0,5.0,16084.0,Detached,,2025-01-24,3.0256362,2.0
+4758324,291797,3 Bayview Lane Queensland NS B0J1T0,1094.0,3.0,2.0,6.0,12600.0,Detached,1 Storey,2025-04-09,315 Kennedy's Road,814.0,3.0,1.0,5.0,16084.0,Detached,Bungalow,2025-01-24,3.0256362,3.0
+4758529,273951,915 140 SIMCOE ST Toronto ON M5H4E9,1176.0,2.0,2.0,6.0,,High Rise Apartment,1 Storey,2025-04-08,Unit A-41 - 15 Fort York Boulevard ,,0.0,0.0,9.0,,,,2025-04-13,-2.4561014,1.0
+4758529,202831,915 140 SIMCOE ST Toronto ON M5H4E9,1176.0,2.0,2.0,6.0,,High Rise Apartment,1 Storey,2025-04-08,Unit 2207 - 77 Harbour Square ,1100.0,2.0,0.0,8.0,,Condominium,,2025-01-09,-3.0926101,2.0
+4758529,203057,915 140 SIMCOE ST Toronto ON M5H4E9,1176.0,2.0,2.0,6.0,,High Rise Apartment,1 Storey,2025-04-08,Unit 1808 - 20 Blue Jays Way ,1100.0,2.0,0.0,6.0,,Condominium,,2025-01-13,-3.0926101,3.0
+4758615,77308,"82 Morenz Terrace Ottawa, Ontario K2K 3H2",1334.0,1.0,3.0,5.0,3253.0,Townhouse,Bungalow,2025-04-08,108 Blackdome Cres ,1689.0,3.0,4.0,10.0,2592.0,Townhouse,2 Storey,2025-02-14,3.0896237,1.0
+4758615,77186,"82 Morenz Terrace Ottawa, Ontario K2K 3H2",1334.0,1.0,3.0,5.0,3253.0,Townhouse,Bungalow,2025-04-08,59 Robarts Cres ,1484.0,3.0,3.0,7.0,2071.0,Townhouse,2 Storey,2025-02-18,3.0896237,2.0
+4758615,76962,"82 Morenz Terrace Ottawa, Ontario K2K 3H2",1334.0,1.0,3.0,5.0,3253.0,Townhouse,Bungalow,2025-04-08,13 Cohen Ave ,1561.0,3.0,3.0,8.0,1900.0,Townhouse,2 Storey,2025-02-21,3.0896237,3.0
+4758672,294252,23 Macfarlane St Lake Echo NS B3E1M5,2010.0,3.0,2.5,9.0,33661.0,Detached,2 Storey,2025-04-09,34 Sandra Drive,1232.0,4.0,2.0,12.0,33399.0,Detached,Split Level,2024-11-07,3.0896237,1.0
+4758672,295474,23 Macfarlane St Lake Echo NS B3E1M5,2010.0,3.0,2.5,9.0,33661.0,Detached,2 Storey,2025-04-09,54 Lillian Drive,1200.0,3.0,3.0,10.0,35996.0,Detached,Split Level,2024-11-08,3.0896237,2.0
+4758672,294769,23 Macfarlane St Lake Echo NS B3E1M5,2010.0,3.0,2.5,9.0,33661.0,Detached,2 Storey,2025-04-09,112 Stoney Creek Drive,1800.0,4.0,3.0,12.0,32149.0,Detached,Bungalow,2024-11-22,3.0896237,3.0
+4759024,10385,5 Lewiston Rd NE Calgary AB T3P 2J3,2647.944,5.0,4.0,9.0,4929.911999999999,Detached,2 Storey,2025-04-07,137 Coville Close NE ,2270.0,4.0,4.0,,4370.0,Detached,2 Storey,2025-01-20,3.0896237,1.0
+4759024,10337,5 Lewiston Rd NE Calgary AB T3P 2J3,2647.944,5.0,4.0,9.0,4929.911999999999,Detached,2 Storey,2025-04-07,120 Howse Crescent NE ,2291.0,4.0,3.5,15.0,3369.0,Detached,2 Storey,2025-01-24,3.0896237,2.0
+4759024,12547,5 Lewiston Rd NE Calgary AB T3P 2J3,2647.944,5.0,4.0,9.0,4929.911999999999,Detached,2 Storey,2025-04-07,283 Coville Close NE ,1443.0,5.0,3.0,11.0,3724.0,Detached,2 Storey,2025-01-24,3.0896237,3.0
+4759088,293449,70 Cliffview Lane Head of Jeddore NS B0J1P0,1400.0,3.0,2.0,6.0,37374.0,Detached,Bungalow Raised,2025-04-11,9559 Highway 7,1130.0,2.0,2.0,5.0,35810.0,Detached,1.5 Storey,2025-04-04,3.0896237,1.0
+4759088,292152,70 Cliffview Lane Head of Jeddore NS B0J1P0,1400.0,3.0,2.0,6.0,37374.0,Detached,Bungalow Raised,2025-04-11,8179 7 Highway,1078.0,2.0,1.0,7.0,32400.0,Detached,1.5 Storey,2024-12-27,-2.0039546,2.0
+4759088,264316,70 Cliffview Lane Head of Jeddore NS B0J1P0,1400.0,3.0,2.0,6.0,37374.0,Detached,Bungalow Raised,2025-04-11,"Lot 12 Northwest Cove, Lake Charlotte",560.0,1.0,1.0,7.0,32024.0,Detached,,2024-11-12,-2.1425073,3.0
+4759260,292875,60 MILL LAKE RD Number 2 Simms Settlement NS B0J1T0,864.0,3.0,1.0,5.0,15936.0,Detached,1 Storey,2025-04-09,331 Conrads Road,1528.0,2.0,1.5,8.0,15900.0,Detached,1.5 Storey,2024-11-15,3.0896237,1.0
+4759260,297413,60 MILL LAKE RD Number 2 Simms Settlement NS B0J1T0,864.0,3.0,1.0,5.0,15936.0,Detached,1 Storey,2025-04-09,6 Shoreline Bluff Lane,1701.0,4.0,2.0,11.0,35334.0,Detached,2 Storey,2024-10-19,-2.3667285,2.0
+4759260,293032,60 MILL LAKE RD Number 2 Simms Settlement NS B0J1T0,864.0,3.0,1.0,5.0,15936.0,Detached,1 Storey,2025-04-09,40 Foxwood Drive,1620.0,4.0,1.5,8.0,6421.0,Detached,2 Storey,2024-11-15,-2.3667285,3.0
+4759498,4142,40 Tierney Dr Nepean ON K2J 4T3,1774.0,3.0,3.5,7.0,3137.0,Detached,2 Storey,2025-04-08,625 New Liskeard Cres,3000.0,4.0,4.0,16.0,5895.0,Detached,2 Storey,2025-02-03,3.0896237,1.0
+4759498,77338,40 Tierney Dr Nepean ON K2J 4T3,1774.0,3.0,3.5,7.0,3137.0,Detached,2 Storey,2025-04-08,5 WHITECHAPEL Cres ,2250.0,4.0,4.0,15.0,3430.0,Detached,2 Storey,2025-02-13,3.0896237,2.0
+4759498,77101,40 Tierney Dr Nepean ON K2J 4T3,1774.0,3.0,3.5,7.0,3137.0,Detached,2 Storey,2025-04-08,94 Upney Dr ,2176.0,4.0,3.0,9.0,3465.0,Detached,2 Storey,2025-02-20,3.0896237,3.0
+4759512,295280,23 WALTON DR Halifax NS B3N1X6,1795.0,3.0,1.5,7.0,6300.0,Detached,1.5 Storey,2025-04-09,41 Coronation Avenue,1122.0,3.0,1.0,9.0,5000.0,Detached,2 Storey,2025-01-13,3.0896237,1.0
+4759512,295567,23 WALTON DR Halifax NS B3N1X6,1795.0,3.0,1.5,7.0,6300.0,Detached,1.5 Storey,2025-04-09,15 Winchester Avenue,1056.0,3.0,1.5,8.0,5145.0,Detached,2 Storey,2025-01-13,3.0896237,2.0
+4759512,296482,23 WALTON DR Halifax NS B3N1X6,1795.0,3.0,1.5,7.0,6300.0,Detached,1.5 Storey,2025-04-09,6715 Edward Arab Avenue,1222.0,3.0,2.5,9.0,5000.0,Detached,1.5 Storey,2025-01-15,3.0896237,3.0
+4759561,293501,47 Pleasant St Dartmouth NS B2Y3P4,3137.0,5.0,4.0,15.0,14375.0,Duplex,2 Storey,2025-04-08,97 Pine Street,1768.0,3.0,1.5,9.0,16698.0,Detached,2 Storey,2025-01-13,2.325651,1.0
+4759561,298870,47 Pleasant St Dartmouth NS B2Y3P4,3137.0,5.0,4.0,15.0,14375.0,Duplex,2 Storey,2025-04-08,165 Pleasant Street,1201.0,1.0,2.0,8.0,12916.0,Detached,Bungalow,2025-04-22,2.325651,2.0
+4759561,299481,47 Pleasant St Dartmouth NS B2Y3P4,3137.0,5.0,4.0,15.0,14375.0,Duplex,2 Storey,2025-04-08,29 Celtic Drive,2688.0,4.0,2.0,8.0,12686.0,Detached,Bungalow,2025-04-22,2.325651,3.0
+4759562,292130,10 Heritage Hills Dr Eastern Passage NS B3G1N5,1132.0,3.0,1.5,6.0,3500.0,Semi Detached,2 Storey,2025-04-08,1702 Caldwell Road,630.0,3.0,1.5,7.0,4641.0,Semi Detached,1 Storey,2025-01-13,3.0896237,1.0
+4759562,293026,10 Heritage Hills Dr Eastern Passage NS B3G1N5,1132.0,3.0,1.5,6.0,3500.0,Semi Detached,2 Storey,2025-04-08,46 Chater Street,704.0,4.0,1.5,8.0,3049.0,Semi Detached,2 Storey,2025-01-24,3.0896237,2.0
+4759562,293247,10 Heritage Hills Dr Eastern Passage NS B3G1N5,1132.0,3.0,1.5,6.0,3500.0,Semi Detached,2 Storey,2025-04-08,140 Heritage Hills Drive,589.0,3.0,1.5,4.0,3249.0,Semi Detached,Split Level,2025-01-24,3.0896237,3.0
+4759604,295884,283 OSBORNE ST Halifax NS B3N3H1,1788.0,3.0,1.5,8.0,14232.0,Detached,2 Storey,2025-04-10,20 Colindale Street,1986.0,4.0,1.5,10.0,11250.0,Detached,Split Level,2025-03-25,3.0896237,1.0
+4759604,299537,283 OSBORNE ST Halifax NS B3N3H1,1788.0,3.0,1.5,8.0,14232.0,Detached,2 Storey,2025-04-10,12 Rosemount Avenue,2175.0,4.0,2.0,9.0,10990.0,Detached,2.5 Storey,2025-04-17,3.0256362,2.0
+4759604,299560,283 OSBORNE ST Halifax NS B3N3H1,1788.0,3.0,1.5,8.0,14232.0,Detached,2 Storey,2025-04-10,3 Ferguson Lane,1542.0,4.0,2.0,15.0,10300.0,Detached,2 Storey,2025-04-30,3.0256362,3.0
+4759846,295367,54 Kingston Cres Dartmouth NS B3A2M2,1637.0,3.0,1.5,7.0,6000.0,Detached,Split Level,2025-04-14,20 Thistle Street,1333.0,2.0,2.0,2.0,8467.0,Detached,1 Storey,2025-01-21,3.0896237,1.0
+4759846,297322,54 Kingston Cres Dartmouth NS B3A2M2,1637.0,3.0,1.5,7.0,6000.0,Detached,Split Level,2025-04-14,47 Tulip Street,1432.0,3.0,2.0,6.0,4200.0,Detached,2 Storey,2025-01-28,3.0896237,2.0
+4759846,291630,54 Kingston Cres Dartmouth NS B3A2M2,1637.0,3.0,1.5,7.0,6000.0,Detached,Split Level,2025-04-14,30 Oak Street,894.0,3.0,1.0,6.0,4243.0,Detached,1.5 Storey,2025-02-05,3.0896237,3.0
+4764028,65,2 Forsey St Ottawa ON K1N7X7,1822.0,3.0,2.5,9.0,911.0,Townhouse,3+ Storey,2025-04-16,198 COBOURG St,2817.0,5.0,3.0,15.0,1980.0,Townhouse,3 Storey,2025-01-25,3.0896237,1.0
+4764028,134042,2 Forsey St Ottawa ON K1N7X7,1822.0,3.0,2.5,9.0,911.0,Townhouse,3+ Storey,2025-04-16,198 COBOURG Street ,2644.0,5.0,0.0,15.0,1980.0,Townhouse,3 Storey,2025-01-25,3.0002503,2.0
+4764028,195681,2 Forsey St Ottawa ON K1N7X7,1822.0,3.0,2.5,9.0,911.0,Townhouse,3+ Storey,2025-04-16,5 Gilmour Street ,1965.0,3.0,0.0,8.0,1219.0,Townhouse,3 Storey,2025-02-25,3.0002503,3.0
+4766326,3259,1004 Connery Ave Ottawa ON K1G2P1,1109.0,3.0,1.0,6.0,8398.0,Detached,Bungalow,2025-04-23,1796 Saunderson Dr,1191.0,2.0,2.0,5.0,6600.0,Detached,Bungalow,2025-01-31,3.0896237,1.0
+4766326,121877,1004 Connery Ave Ottawa ON K1G2P1,1109.0,3.0,1.0,6.0,8398.0,Detached,Bungalow,2025-04-23,1796 Saunderson Drive ,1274.0,2.0,0.0,5.0,6600.0,Detached,Bungalow,2025-01-31,3.0896237,2.0
+4766326,77405,1004 Connery Ave Ottawa ON K1G2P1,1109.0,3.0,1.0,6.0,8398.0,Detached,Bungalow,2025-04-23,2441 HEATON Ave ,1175.0,3.0,2.0,6.0,5500.0,Detached,Bungalow,2025-02-14,3.0896237,3.0
+4766430,298075,96 Forestside Cres Halifax NS B3M1M4,1386.0,3.0,1.5,6.0,,Condominium,2 Storey,2025-04-23,26 Chadwick Place,1280.0,3.0,1.5,8.0,,Condominium,1 Storey,2025-02-05,-2.328637,1.0
+4766430,298238,96 Forestside Cres Halifax NS B3M1M4,1386.0,3.0,1.5,6.0,,Condominium,2 Storey,2025-04-23,75 Forestside Crescent,1386.0,4.0,2.5,10.0,,Condominium,2 Storey,2025-03-06,-2.328637,2.0
+4766430,298773,96 Forestside Cres Halifax NS B3M1M4,1386.0,3.0,1.5,6.0,,Condominium,2 Storey,2025-04-23,Unit 1306 3471 Dutch Village Road,1340.0,2.0,2.0,2.0,,Condominium,,2025-03-17,-2.328637,3.0
+4767066,4813,1606-730 2 Ave SW Calgary AB T2P 1R8,522.0,1.0,1.0,4.0,,High Rise Apartment,1 Storey,2025-04-21,Unit 906 - 510 6 Avenue SE ,671.0,1.0,1.0,4.0,,Condominium,,2025-01-24,-3.0926101,1.0
+4767066,4836,1606-730 2 Ave SW Calgary AB T2P 1R8,522.0,1.0,1.0,4.0,,High Rise Apartment,1 Storey,2025-04-21,Unit 1004 - 1111 6 Avenue SW ,617.0,1.0,1.0,6.0,,Condominium,,2025-01-24,-3.0926101,2.0
+4767066,4894,1606-730 2 Ave SW Calgary AB T2P 1R8,522.0,1.0,1.0,4.0,,High Rise Apartment,1 Storey,2025-04-21,Unit 1807 - 210 15 Avenue SE ,648.0,1.0,1.0,5.0,,Condominium,,2025-01-24,-3.0926101,3.0
+4768014,59,45 Clonfadda Terr Nepean ON K2J 6E9,1607.0,3.0,3.5,6.0,3253.0,Detached,2 Storey,2025-04-21,10 FOSSA Terr,2227.0,4.0,3.0,11.0,2730.0,Detached,2 Storey,2025-01-24,3.0896237,1.0
+4768014,2669,45 Clonfadda Terr Nepean ON K2J 6E9,1607.0,3.0,3.5,6.0,3253.0,Detached,2 Storey,2025-04-21,2651 Baynes Sound Way,1646.0,3.0,3.0,7.0,2460.0,Detached,2 Storey,2025-01-30,3.0896237,2.0
+4768014,77678,45 Clonfadda Terr Nepean ON K2J 6E9,1607.0,3.0,3.5,6.0,3253.0,Detached,2 Storey,2025-04-21,406 BLACKLEAF Dr ,1651.0,3.0,3.0,6.0,4264.0,Detached,Bungalow,2025-02-05,3.0896237,3.0
+4768037,260702,31 YOUNG ST Welland ON L3B4C5,2755.0,7.0,2.0,12.0,6452.0,Duplex,2 Storey,2025-04-21,26 Cozy Street W ,2750.0,5.0,0.0,5.0,3502.0,,1.5 Storey,2025-04-03,3.0002503,1.0
+4768037,108081,31 YOUNG ST Welland ON L3B4C5,2755.0,7.0,2.0,12.0,6452.0,Duplex,2 Storey,2025-04-21,290 Mcalpine Avenue S ,787.0,2.0,1.0,10.0,4500.0,Detached,Bungalow,2025-01-24,2.325651,2.0
+4768037,195782,31 YOUNG ST Welland ON L3B4C5,2755.0,7.0,2.0,12.0,6452.0,Duplex,2 Storey,2025-04-21,153 Michelle Crt ,1750.0,2.0,0.0,12.0,5724.0,Detached,Bungalow,2025-01-25,2.325651,3.0
+4763606,273104,60 Keystone Trail Welland ON L3B0N8,1634.0,4.0,2.5,8.0,,Townhouse,2 Storey,2025-04-17,23 Denistoun Street ,1500.0,4.0,3.5,11.0,,Townhouse,3 Storey,2025-04-14,-2.328637,1.0
+4763606,123523,60 Keystone Trail Welland ON L3B0N8,1634.0,4.0,2.5,8.0,,Townhouse,2 Storey,2025-04-17,Unit 95 - 185 Denistoun Street ,1200.0,3.0,1.5,9.0,,Townhouse,2 Storey,2025-02-14,-2.3667285,2.0
+4763606,140295,60 Keystone Trail Welland ON L3B0N8,1634.0,4.0,2.5,8.0,,Townhouse,2 Storey,2025-04-17,396 Alberta Street ,1450.0,3.0,2.0,8.0,2750.0,Townhouse,2 Storey,2025-03-07,-2.3667285,3.0
+4763898,292876,70 Joffre St Dartmouth NS B2Y3C9,1170.0,2.0,1.5,6.0,7541.0,Detached,1.5 Storey,2025-04-23,27 Cranston Avenue,1215.0,3.0,1.0,6.0,10030.0,Detached,Bungalow,2025-01-31,3.0896237,1.0
+4763898,293865,70 Joffre St Dartmouth NS B2Y3C9,1170.0,2.0,1.5,6.0,7541.0,Detached,1.5 Storey,2025-04-23,48 Oathill Crescent,2191.0,4.0,2.5,12.0,7113.0,Detached,Split Level,2025-02-12,3.0896237,2.0
+4763898,296926,70 Joffre St Dartmouth NS B2Y3C9,1170.0,2.0,1.5,6.0,7541.0,Detached,1.5 Storey,2025-04-23,16 Walters Street,1050.0,4.0,2.0,10.0,8017.0,Detached,Bungalow,2025-02-13,3.0896237,3.0
+4765154,2715,844 Cataraqui Woods Dr Kingston ON K7P2P7,1840.0,4.0,2.5,7.0,7007.0,Detached,Split Level,2025-04-22,657 Gwen Ave,2000.0,4.0,3.5,11.0,4038.0,Detached,2 Storey,2025-01-23,3.0896237,1.0
+4765154,52,844 Cataraqui Woods Dr Kingston ON K7P2P7,1840.0,4.0,2.5,7.0,7007.0,Detached,Split Level,2025-04-22,1028 Bauder Cres,900.0,2.0,2.0,10.0,8250.0,Detached,Bungalow Raised,2025-01-25,3.0896237,2.0
+4765154,3312,844 Cataraqui Woods Dr Kingston ON K7P2P7,1840.0,4.0,2.5,7.0,7007.0,Detached,Split Level,2025-04-22,1126 Dunham St,2700.0,3.0,3.0,14.0,7050.0,Detached,Split Level,2025-01-31,3.0896237,3.0
+4765502,122289,6997 Creek Line Pain Court ON N0P1Z0,1845.0,4.0,1.5,8.0,10570.0,Detached,1.5 Storey,2025-04-22,133 Arrowhead Lane ,1379.0,3.0,2.0,8.0,5076.0,Detached,Bungalow,2024-12-14,-2.1425073,1.0
+4765502,132794,6997 Creek Line Pain Court ON N0P1Z0,1845.0,4.0,1.5,8.0,10570.0,Detached,1.5 Storey,2025-04-22,20 Mallard Pl ,900.0,3.0,0.0,5.0,,Detached,Split Level,2024-11-28,-2.4561014,2.0
+4765502,154640,6997 Creek Line Pain Court ON N0P1Z0,1845.0,4.0,1.5,8.0,10570.0,Detached,1.5 Storey,2025-04-22,1 Dove Place ,1325.0,3.0,0.0,9.0,,Detached,Split Level,2025-01-14,-2.4561014,3.0
+4765899,4181,1753 Reginald Bart Dr Kingston ON K7K0E9,1488.0,3.0,3.5,6.0,3685.0,Detached,2 Storey,2025-04-16,433 Maureen St,1586.0,3.0,3.0,10.0,3240.0,Detached,2 Storey,2025-02-02,3.0896237,1.0
+4765899,77703,1753 Reginald Bart Dr Kingston ON K7K0E9,1488.0,3.0,3.5,6.0,3685.0,Detached,2 Storey,2025-04-16,8 RICHDALE Crt ,1439.0,3.0,3.0,8.0,3434.0,Detached,2 Storey,2025-02-07,3.0896237,2.0
+4765899,77367,1753 Reginald Bart Dr Kingston ON K7K0E9,1488.0,3.0,3.5,6.0,3685.0,Detached,2 Storey,2025-04-16,572 Brooke Pl ,1750.0,3.0,4.0,11.0,2900.0,Detached,2 Storey,2025-02-13,3.0896237,3.0
+4765948,77924,190 RIDEAU ST Kingston ON K7K3A3,2131.0,3.0,3.5,12.0,6864.0,Triplex,2 Storey,2025-04-24,3 Creighton St ,1300.0,3.0,2.0,6.0,4800.0,Detached,1.5 Storey,2025-02-03,2.325651,1.0
+4765948,99365,190 RIDEAU ST Kingston ON K7K3A3,2131.0,3.0,3.5,12.0,6864.0,Triplex,2 Storey,2025-04-24,3 Creighton Street ,1300.0,3.0,0.0,6.0,4800.0,Detached,1.5 Storey,2025-02-03,2.325651,2.0
+4765948,77548,190 RIDEAU ST Kingston ON K7K3A3,2131.0,3.0,3.5,12.0,6864.0,Triplex,2 Storey,2025-04-24,473 Nelson St ,1300.0,3.0,2.0,9.0,4000.0,Detached,1.5 Storey,2025-02-10,2.325651,3.0
+4768126,77661,194 Calvington Ave Ottawa ON K2T0H9,1504.0,3.0,2.5,6.0,2899.0,Townhouse,2 Storey,2025-04-23,504 PAINE Ave ,1696.0,3.0,3.0,8.0,1960.0,Townhouse,2 Storey,2025-02-10,3.0896237,1.0
+4768126,77192,194 Calvington Ave Ottawa ON K2T0H9,1504.0,3.0,2.5,6.0,2899.0,Townhouse,2 Storey,2025-04-23,550 Paine Ave ,1750.0,3.0,3.0,10.0,2450.0,Townhouse,2 Storey,2025-02-21,3.0896237,2.0
+4768126,3285,194 Calvington Ave Ottawa ON K2T0H9,1504.0,3.0,2.5,6.0,2899.0,Townhouse,2 Storey,2025-04-23,7 Kinmount,1393.0,2.0,0.0,7.0,3045.0,Townhouse,Bungalow,2025-01-31,3.0002503,3.0
+4768528,3316,710 Montrichard Rd Orléans ON K4A5R3,1643.0,4.0,2.5,7.0,2780.0,Townhouse,2 Storey,2025-04-24,2023 Boisfranc Circ,1750.0,3.0,3.0,7.0,1960.0,Townhouse,2 Storey,2025-01-31,3.0896237,1.0
+4768528,77931,710 Montrichard Rd Orléans ON K4A5R3,1643.0,4.0,2.5,7.0,2780.0,Townhouse,2 Storey,2025-04-24,1067 Ballantyne Dr ,1500.0,3.0,2.0,3.0,3420.0,Townhouse,2 Storey,2025-02-01,3.0896237,2.0
+4768528,77665,710 Montrichard Rd Orléans ON K4A5R3,1643.0,4.0,2.5,7.0,2780.0,Townhouse,2 Storey,2025-04-24,2043 Melette Cres ,1516.0,2.0,2.0,11.0,2090.0,Townhouse,2 Storey,2025-02-08,3.0896237,3.0
+4769110,298695,5551 Sentinal Sq Halifax NS B3K4A8,1236.0,3.0,2.0,6.0,,Condominium,2 Storey,2025-04-29,Unit 2 5677 Stanley Street,1260.0,2.0,1.0,3.0,,Condominium,2 Storey,2025-01-30,-2.328637,1.0
+4769110,298105,5551 Sentinal Sq Halifax NS B3K4A8,1236.0,3.0,2.0,6.0,,Condominium,2 Storey,2025-04-29,3524 John Parr Drive,1135.0,3.0,2.0,6.0,,Condominium,2 Storey,2025-03-07,-2.328637,2.0
+4769110,299779,5551 Sentinal Sq Halifax NS B3K4A8,1236.0,3.0,2.0,6.0,,Condominium,2 Storey,2025-04-29,Unit 403 5524 Heatherwood Court,1220.0,2.0,2.0,5.0,,Condominium,,2025-04-28,-2.328637,3.0
+4769269,258152,84339 Kent Line Brussels ON N0G1H0,1700.0,2.0,2.0,6.0,53143.2,Detached,Bungalow,2025-04-23,84337 Kent Line ,2015.0,5.0,3.0,16.0,52371.0,Detached,Bungalow,2025-03-31,3.0896237,1.0
+4769269,126369,84339 Kent Line Brussels ON N0G1H0,1700.0,2.0,2.0,6.0,53143.2,Detached,Bungalow,2025-04-23,61 Mcdonald Drive ,1744.0,3.0,3.0,18.0,,Detached,2 Storey,2024-11-30,-2.328637,2.0
+4769269,276366,84339 Kent Line Brussels ON N0G1H0,1700.0,2.0,2.0,6.0,53143.2,Detached,Bungalow,2025-04-23,320 Turnberry Street ,1550.0,3.0,2.0,9.0,,Detached,Bungalow,2025-04-24,-2.328637,3.0
+4770115,147,224 Blackhorse Dr Kemptville ON K0G 1J0,1992.0,3.0,3.0,8.0,7059.0,Detached,Bungalow,2025-04-30,342 PINEHILL Rd,1626.0,4.0,3.0,14.0,6223.0,Detached,Bungalow,2025-01-22,3.0896237,1.0
+4770115,3325,224 Blackhorse Dr Kemptville ON K0G 1J0,1992.0,3.0,3.0,8.0,7059.0,Detached,Bungalow,2025-04-30,339 Pinehill Rd,1522.0,2.0,3.0,5.0,8800.0,Detached,,2025-01-31,3.0896237,2.0
+4770115,78663,224 Blackhorse Dr Kemptville ON K0G 1J0,1992.0,3.0,3.0,8.0,7059.0,Detached,Bungalow,2025-04-30,1054 DEPENCIER Dr ,2336.0,3.0,4.0,14.0,4410.0,Detached,2 Storey,2025-03-07,3.0896237,3.0
+4770310,499,174 South St Gananoque ON K7G1A2,2242.0,3.0,2.5,8.0,6480.0,Detached,2 Storey,2025-04-30,254 NORTH St,1318.0,3.0,2.0,8.0,3600.0,Detached,2 Storey,2025-01-06,3.0896237,1.0
+4770310,2825,174 South St Gananoque ON K7G1A2,2242.0,3.0,2.5,8.0,6480.0,Detached,2 Storey,2025-04-30,625 Queen St,1250.0,3.0,2.0,6.0,6632.93,Detached,2 Storey,2025-01-10,3.0896237,2.0
+4770310,8,174 South St Gananoque ON K7G1A2,2242.0,3.0,2.5,8.0,6480.0,Detached,2 Storey,2025-04-30,160 Georgiana St,1395.0,2.0,2.0,9.0,7200.0,Detached,2 Storey,2025-01-28,3.0896237,3.0
+4771097,279742,401 540 Talbot Pl Gananoque ON K7G3C6,758.0,2.0,1.0,5.0,,Condominium,1 Storey,2025-04-25,Hiscocks Road ,700.0,0.0,0.0,9.0,,,,2025-04-28,-2.328637,1.0
+4771097,2862,401 540 Talbot Pl Gananoque ON K7G3C6,758.0,2.0,1.0,5.0,,Condominium,1 Storey,2025-04-25,Unit 210 - 129A SOUTH St,950.0,2.0,2.0,7.0,,Condominium,,2025-01-07,-2.3667285,2.0
+4771097,144080,401 540 Talbot Pl Gananoque ON K7G3C6,758.0,2.0,1.0,5.0,,Condominium,1 Storey,2025-04-25,Unit 210 - 129A SOUTH Street ,950.0,2.0,0.0,7.0,,Condominium,,2025-01-07,-2.3667285,3.0
+4771029,4705,120 CASTLEGROVE RD NE Calgary AB T3J1T5,2231.68,5.0,3.0,9.0,4477.824,Detached,2 Storey,2025-04-28,377 Martinwood Place NE ,1048.0,4.0,3.0,,3132.0,Detached,Split Level,2025-01-29,3.0896237,1.0
+4771029,4575,120 CASTLEGROVE RD NE Calgary AB T3J1T5,2231.68,5.0,3.0,9.0,4477.824,Detached,2 Storey,2025-04-28,165 Martin Crossing Way ,804.0,4.0,2.0,9.0,3132.0,Detached,Bi-Level,2025-01-30,3.0896237,2.0
+4771029,12347,120 CASTLEGROVE RD NE Calgary AB T3J1T5,2231.68,5.0,3.0,9.0,4477.824,Detached,2 Storey,2025-04-28,83 Falworth Court NE ,1105.0,4.0,2.0,6.0,4391.0,Detached,Bungalow,2025-01-30,3.0896237,3.0
+4771641,10280,53 Lucas Place NW Calgary AB T3P2E2,2115.0,4.0,3.5,8.0,2744.8199999999997,Detached,3 Storey,2025-04-28,26 Lucas Place NW ,2340.0,5.0,2.5,18.0,3369.0,Detached,2 Storey,2025-01-28,3.0896237,1.0
+4771641,68312,53 Lucas Place NW Calgary AB T3P2E2,2115.0,4.0,3.5,8.0,2744.8199999999997,Detached,3 Storey,2025-04-28,92 Howse Hill NE ,1825.0,3.0,2.5,9.0,3907.0,Detached,2 Storey,2025-01-29,3.0896237,2.0
+4771641,98064,53 Lucas Place NW Calgary AB T3P2E2,2115.0,4.0,3.5,8.0,2744.8199999999997,Detached,3 Storey,2025-04-28,217 Lucas Crescent NW ,1848.0,3.0,2.5,9.0,3369.0,Detached,2 Storey,2025-01-30,3.0896237,3.0
+4772017,4575,323 TARACOVE ESTATE DR NE Calgary AB T3J5A1,1149.0,3.0,2.0,6.0,3573.6479999999997,Detached,Bi-Level,2025-04-30,165 Martin Crossing Way ,804.0,4.0,2.0,9.0,3132.0,Detached,Bi-Level,2025-01-30,3.0896237,1.0
+4772017,12347,323 TARACOVE ESTATE DR NE Calgary AB T3J5A1,1149.0,3.0,2.0,6.0,3573.6479999999997,Detached,Bi-Level,2025-04-30,83 Falworth Court NE ,1105.0,4.0,2.0,6.0,4391.0,Detached,Bungalow,2025-01-30,3.0896237,2.0
+4772017,64304,323 TARACOVE ESTATE DR NE Calgary AB T3J5A1,1149.0,3.0,2.0,6.0,3573.6479999999997,Detached,Bi-Level,2025-04-30,126 Saddlemead Road NE ,1057.0,2.0,3.0,,3250.0,Detached,Split Level,2025-01-30,3.0896237,3.0
+4772152,62512,9449 Hidden Valley Dr NW Calgary AB T3A5T1,1372.0,3.0,1.5,8.0,4101.084,Detached,2 Storey,2025-04-25,135 Hidden Way NW ,970.0,4.0,2.0,,3369.0,Detached,Bi-Level,2025-02-11,3.0896237,1.0
+4772152,68341,9449 Hidden Valley Dr NW Calgary AB T3A5T1,1372.0,3.0,1.5,8.0,4101.084,Detached,2 Storey,2025-04-25,1044 Kincora Drive NW ,2072.0,4.0,2.5,15.0,4197.0,Detached,2 Storey,2025-02-13,3.0896237,2.0
+4772152,62481,9449 Hidden Valley Dr NW Calgary AB T3A5T1,1372.0,3.0,1.5,8.0,4101.084,Detached,2 Storey,2025-04-25,71 Macewan Meadow Rise NW ,966.0,3.0,2.0,9.0,4004.0,Detached,Bi-Level,2025-02-16,3.0896237,3.0
+4775892,99987,84 Carleton Pl Brampton ON L6T3Z4,1178.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-30,Unit 1101 - 17 Knightsbridge Road ,1300.0,3.0,0.0,6.0,,Condominium,,2025-02-10,-3.0926101,1.0
+4775892,111878,84 Carleton Pl Brampton ON L6T3Z4,1178.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-30,Unit 157 - 475 Bramalea Road ,1300.0,3.0,0.0,7.0,,Condominium,3 Storey,2025-02-16,-3.0926101,2.0
+4775892,118847,84 Carleton Pl Brampton ON L6T3Z4,1178.0,3.0,1.5,6.0,,Townhouse,2 Storey,2025-04-30,Unit 1203 - 22 Hanover Rd ,1100.0,2.0,0.0,2.0,,Condominium,,2025-02-19,-3.0926101,3.0
+4776066,9416,299 Everoak Dr SW Calgary AB T2Y0A5,2203.0,3.0,2.5,9.0,3702.816,Detached,2 Storey,2025-04-30,8 Shawnee Way SW ,1750.0,4.0,3.0,17.0,6027.0,Detached,Bungalow,2025-01-30,3.0896237,1.0
+4776066,4465,299 Everoak Dr SW Calgary AB T2Y0A5,2203.0,3.0,2.5,9.0,3702.816,Detached,2 Storey,2025-04-30,32 Millcrest Place SW ,1068.0,4.0,2.0,,2600.0,Detached,Bungalow,2025-01-31,3.0896237,2.0
+4776066,4546,299 Everoak Dr SW Calgary AB T2Y0A5,2203.0,3.0,2.5,9.0,3702.816,Detached,2 Storey,2025-04-30,4 Millcrest Way SW ,1074.0,4.0,2.0,8.0,4348.0,Detached,Bungalow,2025-01-31,3.0896237,3.0
+4773295,107844,52 Pyle Rd Lowbanks ON N0A1K0,1675.0,2.0,1.5,6.0,21780.0,Detached,1 Storey,2025-05-02,1584 North Shore Drive ,1032.0,3.0,1.0,7.0,23408.0,Detached,Bungalow,2025-02-27,3.0896237,1.0
+4773295,258023,52 Pyle Rd Lowbanks ON N0A1K0,1675.0,2.0,1.5,6.0,21780.0,Detached,1 Storey,2025-05-02,84 Niece Road ,850.0,3.0,1.0,12.0,21783.0,Detached,Bungalow,2025-03-30,3.0896237,2.0
+4773295,109974,52 Pyle Rd Lowbanks ON N0A1K0,1675.0,2.0,1.5,6.0,21780.0,Detached,1 Storey,2025-05-02,49 Villella Road ,888.0,2.0,1.0,6.0,12000.0,Detached,Bungalow,2024-12-09,-2.3667285,3.0
+4775247,50248,12 Mcdougall St NW Langdon AB T0J1X2,1952.0,3.0,2.5,7.0,10021.284,Detached,2 Storey,2025-04-30,175 Hanson Drive NE ,2306.0,4.0,3.5,15.0,12196.0,Detached,2 Storey,2025-02-11,3.0896237,1.0
+4775247,50259,12 Mcdougall St NW Langdon AB T0J1X2,1952.0,3.0,2.5,7.0,10021.284,Detached,2 Storey,2025-04-30,58 Hanson Drive NE ,2392.0,3.0,2.5,9.0,9147.0,Detached,2 Storey,2025-02-11,3.0896237,2.0
+4775247,50224,12 Mcdougall St NW Langdon AB T0J1X2,1952.0,3.0,2.5,7.0,10021.284,Detached,2 Storey,2025-04-30,22 Hanson Way NE ,2058.0,3.0,2.5,7.0,11325.0,Detached,2 Storey,2025-02-15,3.0896237,3.0
+4773534,268523,44041 Hendershot Rd Lowbanks ON N0A1K0,2773.0,4.0,2.5,8.0,217800.0,Detached,Split Level,2025-05-02,1002 Hutchinson Road ,2800.0,6.0,3.0,20.0,,Detached,Split Level,2025-04-11,-2.328637,1.0
+4773534,283427,44041 Hendershot Rd Lowbanks ON N0A1K0,2773.0,4.0,2.5,8.0,217800.0,Detached,Split Level,2025-05-02,16 Marshagan Road ,2725.0,4.0,2.5,14.0,,Detached,1.5 Storey,2025-05-01,-2.328637,2.0
+4773534,126304,44041 Hendershot Rd Lowbanks ON N0A1K0,2773.0,4.0,2.5,8.0,217800.0,Detached,Split Level,2025-05-02,44045 Highway 3 Highway ,2217.0,3.0,2.0,11.0,27756.0,Detached,1.5 Storey,2024-11-14,-2.3667285,3.0
+4773833,147012,4315 CONCESSION RD 4 N/A S Amherstburg ON N9V2Y8,2304.0,4.0,2.0,10.0,23046.0,Detached,2 Storey,2025-04-30,25 Bratt Drive ,1197.0,5.0,2.0,10.0,4998.0,Detached,Bungalow Raised,2024-11-03,-2.3667285,1.0
+4773833,126352,4315 CONCESSION RD 4 N/A S Amherstburg ON N9V2Y8,2304.0,4.0,2.0,10.0,23046.0,Detached,2 Storey,2025-04-30,12 Baker Cres ,2300.0,4.0,0.0,8.0,8763.0,Detached,Bungalow,2024-11-01,-2.4180098,2.0
+4773833,146924,4315 CONCESSION RD 4 N/A S Amherstburg ON N9V2Y8,2304.0,4.0,2.0,10.0,23046.0,Detached,2 Storey,2025-04-30,165 Mediterranean Avenue ,1410.0,4.0,0.0,9.0,5292.0,Detached,Bungalow,2024-11-18,-2.4561014,3.0
+4776648,77521,576 Chesham Pl Kingston ON K7M5T5,1050.0,4.0,2.0,5.0,10014.0,Detached,1 Storey,2025-05-01,494 Roosevelt Dr ,1300.0,3.0,2.0,7.0,6900.0,Detached,Bungalow Raised,2025-02-07,3.0896237,1.0
+4776648,77328,576 Chesham Pl Kingston ON K7M5T5,1050.0,4.0,2.0,5.0,10014.0,Detached,1 Storey,2025-05-01,319 Meadowcrest Rd ,1145.0,3.0,2.0,6.0,7590.0,Detached,Bungalow,2025-02-14,3.0896237,2.0
+4776648,77019,576 Chesham Pl Kingston ON K7M5T5,1050.0,4.0,2.0,5.0,10014.0,Detached,1 Storey,2025-05-01,616 Pimlico Pl ,1750.0,3.0,3.0,10.0,9000.0,Detached,Split Level,2025-02-18,3.0896237,3.0
+4777578,50248,260 Boulder Creek Cres Langdon AB T0J 1X3,2061.0,3.0,3.5,9.0,9450.792,Detached,2 Storey,2025-05-01,175 Hanson Drive NE ,2306.0,4.0,3.5,15.0,12196.0,Detached,2 Storey,2025-02-11,3.0896237,1.0
+4777578,50259,260 Boulder Creek Cres Langdon AB T0J 1X3,2061.0,3.0,3.5,9.0,9450.792,Detached,2 Storey,2025-05-01,58 Hanson Drive NE ,2392.0,3.0,2.5,9.0,9147.0,Detached,2 Storey,2025-02-11,3.0896237,2.0
+4777578,50224,260 Boulder Creek Cres Langdon AB T0J 1X3,2061.0,3.0,3.5,9.0,9450.792,Detached,2 Storey,2025-05-01,22 Hanson Way NE ,2058.0,3.0,2.5,7.0,11325.0,Detached,2 Storey,2025-02-15,3.0896237,3.0
+4776534,10171,29 Timberline Crt SW Calgary AB T3H6C8,3543.1,3.0,3.5,8.0,7524.035999999999,Detached,2 Storey,2025-05-02,22 Discovery Ridge Heights SW ,2426.0,6.0,3.5,14.0,6662.0,Detached,2 Storey,2025-02-04,3.0896237,1.0
+4776534,9199,29 Timberline Crt SW Calgary AB T3H6C8,3543.1,3.0,3.5,8.0,7524.035999999999,Detached,2 Storey,2025-05-02,18 Springbank Rise SW ,1975.0,4.0,3.5,17.0,4764.0,Detached,2 Storey,2025-02-05,3.0896237,2.0
+4776534,33913,29 Timberline Crt SW Calgary AB T3H6C8,3543.1,3.0,3.5,8.0,7524.035999999999,Detached,2 Storey,2025-05-02,125 Discovery Place SW ,1911.0,4.0,3.5,14.0,5801.0,Detached,2 Storey,2025-02-09,3.0896237,3.0
+4776574,9271,58 Copperleaf Terr SE Calgary AB T2Z0H9,2352.0,3.0,3.5,7.0,4768.0,Detached,2 Storey,2025-05-02,2090 Brightoncrest Common SE ,2117.0,3.0,2.5,10.0,4122.0,Detached,2 Storey,2025-02-05,3.0896237,1.0
+4776574,42558,58 Copperleaf Terr SE Calgary AB T2Z0H9,2352.0,3.0,3.5,7.0,4768.0,Detached,2 Storey,2025-05-02,204 Copperstone Gardens SE ,1700.0,4.0,3.5,11.0,4424.0,Detached,2 Storey,2025-02-07,3.0896237,2.0
+4776574,93320,58 Copperleaf Terr SE Calgary AB T2Z0H9,2352.0,3.0,3.5,7.0,4768.0,Detached,2 Storey,2025-05-02,1090 New Brighton Park SE ,1570.0,3.0,2.5,6.0,2712.0,Detached,2 Storey,2025-02-10,3.0896237,3.0
+4777828,178377,32 Hilborn St Grand Valley ON L9W6V1,2385.0,,,,4919.0,,2 Storey,2025-05-01,33 Stuckey Lane ,2250.0,3.0,0.0,9.0,4920.0,Detached,2 Storey,2024-11-06,3.0002503,1.0
+4777828,213062,32 Hilborn St Grand Valley ON L9W6V1,2385.0,,,,4919.0,,2 Storey,2025-05-01,21 Melody Lane ,1736.0,3.0,3.5,14.0,6280.0,Detached,2 Storey,2024-11-14,3.0002503,2.0
+4777828,143514,32 Hilborn St Grand Valley ON L9W6V1,2385.0,,,,4919.0,,2 Storey,2025-05-01,70 Luther Road ,1750.0,4.0,0.0,8.0,7375.0,Detached,2 Storey,2024-12-06,3.0002503,3.0
+4778535,269517,1633 27 AVE SW Calgary AB T2T1G7,2002.104,8.0,4.0,12.0,6243.12,Fourplex,Bi-Level,2025-05-06,1521 27 Avenue SW ,2001.0,,0.0,5.0,6243.0,Fourplex,,2025-04-12,3.0002503,1.0
+4778535,49625,1633 27 AVE SW Calgary AB T2T1G7,2002.104,8.0,4.0,12.0,6243.12,Fourplex,Bi-Level,2025-05-06,1835 29 Avenue SW ,2137.0,4.0,4.0,,4682.0,Detached,2 Storey,2025-02-05,2.325651,2.0
+4778535,12030,1633 27 AVE SW Calgary AB T2T1G7,2002.104,8.0,4.0,12.0,6243.12,Fourplex,Bi-Level,2025-05-06,4423 Quentin Court SW ,1119.0,3.0,2.0,12.0,4014.0,Semi Detached,2 Storey,2025-02-07,2.325651,3.0
+4778557,49043,3666 Douglas Woods Hts SE Calgary AB T2Z2G4,1290.0,2.0,3.0,5.0,5791.0,Detached,Bungalow,2025-05-06,3011 Douglasdale Boulevard SE ,1958.0,3.0,2.5,10.0,5199.0,Detached,2 Storey,2025-02-12,3.0896237,1.0
+4778557,42216,3666 Douglas Woods Hts SE Calgary AB T2Z2G4,1290.0,2.0,3.0,5.0,5791.0,Detached,Bungalow,2025-05-06,14520 Mt Mckenzie Drive SE ,1253.0,3.0,2.5,9.0,3735.0,Detached,2 Storey,2025-02-18,3.0896237,2.0
+4778557,91557,3666 Douglas Woods Hts SE Calgary AB T2Z2G4,1290.0,2.0,3.0,5.0,5791.0,Detached,Bungalow,2025-05-06,122 Douglasview Rise SE ,2161.0,5.0,3.5,20.0,5328.0,Detached,2 Storey,2025-02-19,3.0896237,3.0
+4779669,146338,81 Eastforest Trail Kitchener ON N2N3M3,1451.0,3.0,1.5,6.0,3625.0,Detached,2 Storey,2025-05-06,29 Hickory Heights ,864.0,3.0,1.5,12.0,5250.0,Detached,Split Level,2025-02-06,3.0896237,1.0
+4779669,135057,81 Eastforest Trail Kitchener ON N2N3M3,1451.0,3.0,1.5,6.0,3625.0,Detached,2 Storey,2025-05-06,385 Driftwood Drive ,1315.0,3.0,1.5,10.0,5145.0,Detached,2 Storey,2025-02-11,3.0896237,2.0
+4779669,114568,81 Eastforest Trail Kitchener ON N2N3M3,1451.0,3.0,1.5,6.0,3625.0,Detached,2 Storey,2025-05-06,17 Westmeadow Drive ,1045.0,3.0,2.0,11.0,3078.0,Detached,Bungalow Raised,2025-02-15,3.0896237,3.0
+4778791,77278,603 223 PRINCESS ST Kingston ON K7L0G8,678.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 2 - 250 King St E ,550.0,1.0,2.0,4.0,,Condominium,2 Storey,2025-02-12,-2.328637,1.0
+4778791,77720,603 223 PRINCESS ST Kingston ON K7L0G8,678.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 403 - 315 Regent St ,950.0,2.0,1.0,6.0,,Condominium,,2025-02-07,-2.3667285,2.0
+4778791,78256,603 223 PRINCESS ST Kingston ON K7L0G8,678.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 701 - 121 Queen St ,850.0,2.0,1.0,7.0,,Condominium,,2025-03-05,-2.3667285,3.0
+4778794,77278,501 223 PRINCESS ST Kingston ON K7L0G8,665.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 2 - 250 King St E ,550.0,1.0,2.0,4.0,,Condominium,2 Storey,2025-02-12,-2.328637,1.0
+4778794,77720,501 223 PRINCESS ST Kingston ON K7L0G8,665.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 403 - 315 Regent St ,950.0,2.0,1.0,6.0,,Condominium,,2025-02-07,-2.3667285,2.0
+4778794,78256,501 223 PRINCESS ST Kingston ON K7L0G8,665.0,2.0,2.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 701 - 121 Queen St ,850.0,2.0,1.0,7.0,,Condominium,,2025-03-05,-2.3667285,3.0
+4778797,77278,718 223 PRINCESS ST Kingston ON K7L0G8,584.0,1.0,1.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 2 - 250 King St E ,550.0,1.0,2.0,4.0,,Condominium,2 Storey,2025-02-12,-2.328637,1.0
+4778797,102028,718 223 PRINCESS ST Kingston ON K7L0G8,584.0,1.0,1.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 2 - 250 King Street E ,550.0,1.0,0.0,4.0,,Condominium,2 Storey,2025-02-12,-2.328637,2.0
+4778797,77720,718 223 PRINCESS ST Kingston ON K7L0G8,584.0,1.0,1.0,5.0,,Condominium,1 Storey,2025-05-05,Unit 403 - 315 Regent St ,950.0,2.0,1.0,6.0,,Condominium,,2025-02-07,-2.3667285,3.0
+4778326,97949,184 Sandpiper Cir NW Calgary AB T3K3P4,1746.79,3.0,2.5,7.0,8169.875999999999,Detached,Split Level,2025-05-05,44 Sanderling Rise NW ,1816.0,4.0,2.5,10.0,7405.0,Detached,Split Level,2025-02-19,3.0896237,1.0
+4778326,98464,184 Sandpiper Cir NW Calgary AB T3K3P4,1746.79,3.0,2.5,7.0,8169.875999999999,Detached,Split Level,2025-05-05,308 Hidden Valley Landing NW ,1403.0,4.0,3.0,16.0,7448.0,Detached,Bungalow,2025-02-21,3.0896237,2.0
+4778326,93823,184 Sandpiper Cir NW Calgary AB T3K3P4,1746.79,3.0,2.5,7.0,8169.875999999999,Detached,Split Level,2025-05-05,234 Sandstone Drive NW ,1104.0,5.0,3.0,14.0,5349.0,Detached,Split Level,2025-02-27,3.0896237,3.0
+4758996,10480,160 Marquis Pl SE Airdrie AB T4A1Y7,1144.0,3.0,1.5,6.0,5823.324,Detached,Split Level,2025-04-09,10 Tipping Close SE ,2482.0,5.0,2.5,14.0,5186.0,Detached,2 Storey,2025-01-10,3.0896237,1.0
+4758996,62562,160 Marquis Pl SE Airdrie AB T4A1Y7,1144.0,3.0,1.5,6.0,5823.324,Detached,Split Level,2025-04-09,272 Big Hill Circle SE ,956.0,2.0,1.0,6.0,4004.0,Detached,,2025-01-10,3.0896237,2.0
+4758996,12943,160 Marquis Pl SE Airdrie AB T4A1Y7,1144.0,3.0,1.5,6.0,5823.324,Detached,Split Level,2025-04-09,36 Taylor Way SE ,1278.0,5.0,2.0,12.0,5044.0,Detached,Bi-Level,2025-01-13,3.0896237,3.0
+4775785,22737,1841 Fisk Rd Odessa ON K0H2H0,2138.0,5.0,2.0,10.0,435600.0,Detached,2 Storey,2025-04-30,4232 Camden Portland Boundary Road ,2523.0,3.0,3.0,13.0,212592.0,Detached,Bungalow,2024-11-01,-2.3667285,1.0
+4775785,1709,1841 Fisk Rd Odessa ON K0H2H0,2138.0,5.0,2.0,10.0,435600.0,Detached,2 Storey,2025-04-30,88 CUTLER Rd,2982.0,5.0,3.0,16.0,261360.0,Detached,1.5 Storey,2024-11-20,-2.3667285,2.0
+4775785,3174,1841 Fisk Rd Odessa ON K0H2H0,2138.0,5.0,2.0,10.0,435600.0,Detached,2 Storey,2025-04-30,106 Brennan Cres,1750.0,3.0,3.0,3.0,5200.0,Detached,2 Storey,2024-11-26,-2.3667285,3.0
+4775292,167412,64232 COUNTY RD 3 East Garafraxa ON L9W7J4,2250.0,5.0,3.0,10.0,435600.0,Detached,Bungalow,2025-05-02,6555 Third Line ,2113.0,3.0,2.0,17.0,16500.0,Detached,Bungalow,2024-11-27,-2.328637,1.0
+4775292,178462,64232 COUNTY RD 3 East Garafraxa ON L9W7J4,2250.0,5.0,3.0,10.0,435600.0,Detached,Bungalow,2025-05-02,6135 Second Line ,1863.0,3.0,2.0,10.0,582008.0,Detached,Bungalow,2024-11-24,-2.3667285,2.0
+4775292,203186,64232 COUNTY RD 3 East Garafraxa ON L9W7J4,2250.0,5.0,3.0,10.0,435600.0,Detached,Bungalow,2025-05-02,6224 Fifth Line ,1704.0,3.0,2.5,11.0,452800.0,Detached,2 Storey,2024-11-26,-2.3667285,3.0
+4723364,109775,1050 John F. Scott Rd Kingston ON K7L4V3,1254.0,3.0,1.5,7.0,609840.0,Detached,2 Storey,2025-02-13,1984 Downsview Drive ,1166.0,3.0,1.0,10.0,14350.0,Detached,Bungalow,2024-11-22,-2.328637,1.0
+4723364,77566,1050 John F. Scott Rd Kingston ON K7L4V3,1254.0,3.0,1.5,7.0,609840.0,Detached,2 Storey,2025-02-13,977 Rainbow Cres ,1300.0,3.0,2.0,8.0,3636.0,Detached,2 Storey,2025-02-07,-2.328637,2.0
+4723364,78933,1050 John F. Scott Rd Kingston ON K7L4V3,1254.0,3.0,1.5,7.0,609840.0,Detached,2 Storey,2025-02-13,1220 Cyprus Rd ,1210.0,2.0,2.0,8.0,101.0,Detached,Bungalow,2025-03-07,-2.328637,3.0
