@@ -192,8 +192,8 @@ Follow the notebooks in this order:
 After training the model (by running `model.ipynb` or ensuring a trained model is saved in `model/`), you can launch the interactive web application:
 
 ```bash
-# Ensure you are in the root directory of the project: Property-Recommendation/
-streamlit run script/app.py
+# Ensure you are in the script directory of the project: Property-Recommendation/script 
+streamlit run app.py
 ```
 Open your web browser and navigate to the local URL provided by Streamlit (typically `http://localhost:8501`).
 
