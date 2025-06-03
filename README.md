@@ -19,14 +19,16 @@ This project develops an intelligent **Property Recommendation System** leveragi
 
 ## 🛠️ Tech Stack
 
--   **Frontend**: Streamlit (Interactive web application) with HTML/CSS
+-   **Frontend**: Streamlit (Interactive web application)
 -   **Backend**: Python
--   **Data Processing**: Pandas, NumPy (Efficient data manipulation)
--   **Machine Learning**: XGBoost (Powerful gradient boosting), Scikit-learn (Machine learning utilities)
--   **Visualization**: Plotly (Interactive plots and dashboards)
--   **Model Interpretation**: SHAP (Explainable AI)
+-   **Data Processing**: Pandas, NumPy
+-   **Machine Learning**: XGBoost, Scikit-learn
+-   **Visualization**: Plotly
+-   **Model Interpretation**: SHAP
 
 ## 📁 Project Structure
+
+Our project is organized into the following logical directories:
 
 ```
 Property-Recommendation/
@@ -86,31 +88,31 @@ Our robust data pipeline ensures high-quality data feeds into the recommendation
 
 Effective feature engineering was crucial for capturing the most relevant similarities between the subject property and candidate comparables. Here are the engineered features used in the model:
 
-* **`gla_diff`**: Difference in Gross Living Area (GLA) between subject and candidate.  
-  **Reason**: Properties with similar living area are more comparable in valuation.
+*   `gla_diff`: Difference in Gross Living Area (GLA) between subject and candidate.
+    **Reason**: Properties with similar living area are more comparable in valuation.
 
-* **`lot_size_diff`**: Difference in lot size between subject and candidate.  
-  **Reason**: Lot size impacts property value and is a key metric for comparison.
+*   `lot_size_diff`: Difference in lot size between subject and candidate.
+    **Reason**: Lot size impacts property value and is a key metric for comparison.
 
-* **`bedroom_diff`**: Difference in number of bedrooms.  
-  **Reason**: Number of bedrooms is a fundamental factor in property similarity and buyer interest.
+*   `bedroom_diff`: Difference in number of bedrooms.
+    **Reason**: Number of bedrooms is a fundamental factor in property similarity and buyer interest.
 
-* **`bathroom_diff`**: Difference in number of bathrooms.  
-  **Reason**: Bathrooms, like bedrooms, are core to property utility and comparability.
+*   `bathroom_diff`: Difference in number of bathrooms.
+    **Reason**: Bathrooms, like bedrooms, are core to property utility and comparability.
 
-* **`room_count_diff`**: Difference in total room count.  
-  **Reason**: Overall room count gives an additional measure of property size and use.
+*   `room_count_diff`: Difference in total room count.
+    **Reason**: Overall room count gives an additional measure of property size and use.
 
-* **`same_property_type`**: Boolean flag (1/0) if subject and candidate have the same property type.  
-  **Reason**: Comparing the same property type ensures more meaningful valuation (e.g., house to house, condo to condo).
+*   `same_property_type`: Boolean flag (1/0) if subject and candidate have the same property type.
+    **Reason**: Comparing the same property type ensures more meaningful valuation (e.g., house to house, condo to condo).
 
-* **`same_storey_type`**: Boolean flag if both properties have the same number/type of stories (e.g., both are 2-storey homes).  
-  **Reason**: Storey type affects structure, value, and buyer preference.
+*   `same_storey_type`: Boolean flag if both properties have the same number/type of stories (e.g., both are 2-storey homes).
+    **Reason**: Storey type affects structure, value, and buyer preference.
 
-* **`sold_recently_90`**: Boolean flag if candidate was sold within 90 days of the subject’s valuation date.  
-  **Reason**: Recent sales provide more reliable market comparisons due to similar market conditions.
+*   `sold_recently_90`: Boolean flag if candidate was sold within 90 days of the subject's valuation date.
+    **Reason**: Recent sales provide more reliable market comparisons due to similar market conditions.
 
-*(These features were selected based on appraisal best practices and confirmed by SHAP analysis as the most influential drivers for the model’s recommendations.)*
+*(These features were selected based on appraisal best practices and confirmed by SHAP analysis as the most influential drivers for the model's recommendations.)*
 
 ## 🧠 Modeling
 
@@ -128,11 +130,12 @@ We employed **XGBoost (Extreme Gradient Boosting)** for our recommendation model
 
 The model was trained using an 80/20 train–test split on a curated property dataset, with group-aware splitting to prevent data leakage. Hyperparameter tuning was done via GridSearchCV.
 
-* **Evaluation**: Performance was measured by Top-3 Hit Rate (94.4%), ROC AUC (0.93), and overall accuracy (98%), with additional reporting of precision, recall, and F1-score for both classes.
-* **Interpretability**: SHAP analysis highlighted GLA Difference, Lot Size Difference, Bedroom Difference, and Sold Within 90 Days as the most influential features driving recommendations.
+*   **Evaluation**: Performance was measured by:
+    *   **Top-3 Hit Rate**: Achieved a 94.4% hit rate (17/18), meaning at least one expert-chosen comp was present in the model's top-3 ranked candidates for nearly all test subjects.
+    *   **ROC AUC Score**: Scored 0.93, indicating excellent ability to distinguish true comps from non-comps.
 
-*(All metrics and insights summarized using ChatGPT/OpenAI for clarity.)*
-
+*   **Interpretability**: SHAP (SHapley Additive exPlanations) analysis identified `gla_diff`, `lot_size_diff`, `bedroom_diff`, and `sold_recently_90` as the most influential features in model recommendations.
+    SHAP results confirmed the model's reliance on core property characteristics and sale recency, closely matching human expert logic.
 
 ## 🚀 How to Run
 
@@ -199,15 +202,12 @@ Open your web browser and navigate to the local URL provided by Streamlit (typic
 The model demonstrated strong performance in recommending comparable properties:
 
 *   **Key Metrics**:
-    *   **Top-3 Hit Rate**: Achieved a 94.4% hit rate (17/18), meaning at least one expert-chosen comp was present in the model’s top-3 ranked candidates for nearly all test subjects.
+    *   **Top-3 Hit Rate**: Achieved a 94.4% hit rate (17/18), meaning at least one expert-chosen comp was present in the model's top-3 ranked candidates for nearly all test subjects.
     *   **ROC AUC Score**: Scored 0.93, indicating excellent ability to distinguish true comps from non-comps.
 
 *   **SHAP Analysis Insights**:
-    *   SHAP (SHapley Additive exPlanations) analysis identified GLA Difference, Lot Size Difference, Bedroom Difference, and Sold Within 90 Days as the most influential features in          model recommendations.
-    *   SHAP results confirmed the model’s reliance on core property characteristics and sale recency, closely matching human expert logic.
-
-Summarization: All insights and recommendation summaries were distilled using ChatGPT (OpenAI) to ensure clarity and transparency.
-
+    *   SHAP (SHapley Additive exPlanations) analysis identified `GLA Difference`, `Lot Size Difference`, `Bedroom Difference`, and `Sold Within 90 Days` as the most influential features in model recommendations.
+    *   SHAP results confirmed the model's reliance on core property characteristics and sale recency, closely matching human expert logic.
 
 ## 🧠 Key Decisions & Challenges
 
@@ -218,7 +218,7 @@ Developing this system involved several critical decisions and overcoming notabl
     *   **Learning**: Understanding the impact of different imputation strategies on model performance.
 
 *   **Challenge 2: Feature Engineering Complexity**
-    *   **Decision**: Focused on creating domain-specific features (`gla_difference`, `property_type_same`) that directly relate to real estate valuation, rather than relying solely on raw features.
+    *   **Decision**: Focused on creating domain-specific features (`gla_diff`, `property_type_same`) that directly relate to real estate valuation, rather than relying solely on raw features.
     *   **Learning**: The significant uplift in model performance achievable through well-thought-out feature engineering.
 
 *   **Challenge 3: Model Interpretability**
@@ -228,7 +228,6 @@ Developing this system involved several critical decisions and overcoming notabl
 *   **Decision 4: Streamlit for Rapid Prototyping**
     *   **Reason**: Chosen for its ability to quickly build interactive web applications with pure Python, allowing for rapid iteration and demonstration of the recommendation system.
     *   **Learning**: Streamlit's simplicity accelerated the deployment phase significantly.
-
 
 ## 🤝 Contributing
 
@@ -245,8 +244,8 @@ Contributions are always welcome! If you have suggestions for improvements or ne
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ✍️ Authors
+## ✍️ Author
 
-- [**Raahim Khan**](https://www.linkedin.com/in/raahimk24/) – Initial work & Core Development
+**Raahim Khan** - Initial work & Core Development - [https://www.linkedin.com/in/raahimk24/](https://www.linkedin.com/in/raahimk24/)
 
 
