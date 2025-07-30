@@ -229,17 +229,6 @@ Developing this system involved several critical decisions and overcoming notabl
     *   **Reason**: Chosen for its ability to quickly build interactive web applications with pure Python, allowing for rapid iteration and demonstration of the recommendation system.
     *   **Learning**: Streamlit's simplicity accelerated the deployment phase significantly.
 
-## 🤝 Contributing
-
-Contributions are always welcome! If you have suggestions for improvements or new features, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/YourFeature`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add Your Feature'`).
-5.  Push to the branch (`git push origin feature/YourFeature`).
-6.  Open a Pull Request.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
