@@ -229,11 +229,11 @@ Developing this system involved several critical decisions and overcoming notabl
     *   **Reason**: Chosen for its ability to quickly build interactive web applications with pure Python, allowing for rapid iteration and demonstration of the recommendation system.
     *   **Learning**: Streamlit's simplicity accelerated the deployment phase significantly.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ✍️ Author
+## Author
 
 **Raahim Khan** - Initial work & Core Development - [https://www.linkedin.com/in/raahimk24/](https://www.linkedin.com/in/raahimk24/)
 
