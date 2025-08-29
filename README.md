@@ -1,14 +1,14 @@
-# 🏡 Property Recommendation System
+# Property Recommendation System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ✨ Project Overview
+## Project Overview
 
 This project develops an intelligent **Property Recommendation System** leveraging machine learning to connect users with their ideal properties. It addresses the challenge of sifting through vast real estate data by providing personalized suggestions based on various property features and user preferences. The system integrates data processing, advanced feature engineering, robust machine learning modeling, and an interactive web application for a seamless user experience.
 
-## 🚀 Features
+## Features
 
 -   **Data Cleaning & Preprocessing**: Robust handling of missing values, duplicates, and standardization.
 -   **Feature Engineering & Selection**: Creation of impactful new features and selection of the most relevant ones.
@@ -17,7 +17,7 @@ This project develops an intelligent **Property Recommendation System** leveragi
 -   **Model Interpretability (SHAP)**: Insights into model predictions using SHAP values.
 -   **Data Visualization**: Comprehensive visualizations for deeper data understanding.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **Frontend**: Streamlit (Interactive web application)
 -   **Backend**: Python
@@ -26,25 +26,25 @@ This project develops an intelligent **Property Recommendation System** leveragi
 -   **Visualization**: Plotly
 -   **Model Interpretation**: SHAP
 
-## 📁 Project Structure
+## Project Structure
 
 Our project is organized into the following logical directories:
 
 ```
 Property-Recommendation/
-├── data/                       # 📊 Raw and processed dataset files
-├── model/                     # 🧠 Trained machine learning models (e.g., XGBoost.pkl)
-├── script/                    # 🐍 Core source code and notebooks
-│   ├── app.py                        # 🌐 Streamlit web application for recommendations
-│   ├── data_cleaning.ipynb           # 🧹 Notebook for initial data cleaning and preprocessing
-│   ├── data_processing.ipynb         # ⚙️ Notebook for data transformation and validation
-│   ├── feature_engineering.ipynb     # 🚀 Notebook for creating and selecting new features
-│   ├── model.ipynb                   # 📈 Notebook for model training, tuning, and evaluation
-│   └── requirements.txt              # 📦 Python package dependencies
-└── script_info/               # 📝 Additional scripts and documentation
+├── data/                      #   Raw and processed dataset files
+├── model/                     #   Trained machine learning models (e.g., XGBoost.pkl)
+├── script/                    #   Core source code and notebooks
+│   ├── app.py                        #  Streamlit web application for recommendations
+│   ├── data_cleaning.ipynb           #  Notebook for initial data cleaning and preprocessing
+│   ├── data_processing.ipynb         #  Notebook for data transformation and validation
+│   ├── feature_engineering.ipynb     #  Notebook for creating and selecting new features
+│   ├── model.ipynb                   #  Notebook for model training, tuning, and evaluation
+│   └── requirements.txt              #  Python package dependencies
+└── script_info/               #  Additional scripts and documentation
 ```
 
-## 📊 Data Processing Pipeline
+## Data Processing Pipeline
 
 Our robust data pipeline ensures high-quality data feeds into the recommendation engine:
 
@@ -84,7 +84,7 @@ Our robust data pipeline ensures high-quality data feeds into the recommendation
         *   Generates and displays property recommendations dynamically.
         *   Visualizes feature importance and other insights.
 
-## 📈 Feature Engineering
+## Feature Engineering
 
 Effective feature engineering was crucial for capturing the most relevant similarities between the subject property and candidate comparables. Here are the engineered features used in the model:
 
@@ -114,7 +114,7 @@ Effective feature engineering was crucial for capturing the most relevant simila
 
 *(These features were selected based on appraisal best practices and confirmed by SHAP analysis as the most influential drivers for the model's recommendations.)*
 
-## 🧠 Modeling
+##  Modeling
 
 ### Model Selection
 
@@ -137,7 +137,7 @@ The model was trained using an 80/20 train–test split on a curated property da
 *   **Interpretability**: SHAP (SHapley Additive exPlanations) analysis identified `gla_diff`, `lot_size_diff`, `bedroom_diff`, and `sold_recently_90` as the most influential features in model recommendations.
     SHAP results confirmed the model's reliance on core property characteristics and sale recency, closely matching human expert logic.
 
-## 🚀 How to Run
+##  How to Run
 
 Follow these steps to set up and run the Property Recommendation System locally.
 
@@ -197,7 +197,7 @@ streamlit run app.py
 ```
 Open your web browser and navigate to the local URL provided by Streamlit (typically `http://localhost:8501`).
 
-## ✅ Results
+## Results
 
 The model demonstrated strong performance in recommending comparable properties:
 
@@ -209,7 +209,7 @@ The model demonstrated strong performance in recommending comparable properties:
     *   SHAP (SHapley Additive exPlanations) analysis identified `GLA Difference`, `Lot Size Difference`, `Bedroom Difference`, and `Sold Within 90 Days` as the most influential features in model recommendations.
     *   SHAP results confirmed the model's reliance on core property characteristics and sale recency, closely matching human expert logic.
 
-## 🧠 Key Decisions & Challenges
+## Key Decisions & Challenges
 
 Developing this system involved several critical decisions and overcoming notable challenges:
 
